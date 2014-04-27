@@ -109,7 +109,7 @@
      id="rect14"
      style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
      height="12.982"
-     rx="6.4910002"
+     rx="0.2"
      y="0.28244442"
      x="0.28222224"
      width="12.982" />
@@ -120,7 +120,7 @@
        width="12.982"
        x=".282"
        y=".282"
-       rx="6.491"
+       rx="0.2"
        height="12.982"
        style="opacity:.5;fill:#fff"
        id="rect16" />
@@ -128,7 +128,7 @@
        width="11.853"
        x=".847"
        y=".847"
-       rx="5.926"
+       rx="0.2"
        height="11.853"
        style="fill:url(#linearGradient3004)"
        id="rect18" />

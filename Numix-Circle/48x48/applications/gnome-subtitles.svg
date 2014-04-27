@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gaupol.svg">
+   sodipodi:docname="gnome-subtitles.svg">
   <metadata
      id="metadata399">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
+     inkscape:window-width="1920"
+     inkscape:window-height="1143"
      id="namedview397"
      showgrid="false"
-     inkscape:zoom="17.825641"
-     inkscape:cx="24.483306"
-     inkscape:cy="25.792873"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:zoom="8.9128205"
+     inkscape:cx="13.730492"
+     inkscape:cy="28.132412"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -877,7 +877,7 @@
        x2="0"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       gradientTransform="matrix(0 -.31193 .31193 0 .84666 12.7)"
+       gradientTransform="matrix(0,-0.31193,0.31193,0,-4.7977846,12.7)"
        xlink:href="#linearGradient4153"
        id="linearGradient4178"
        x1="0"
@@ -1168,32 +1168,34 @@
        id="radialGradient4225-6"
        xlink:href="#linearGradient4126-5-6"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4153"
+       id="linearGradient3975"
+       x1="0.84732997"
+       y1="6.7738299"
+       x2="12.70033"
+       y2="6.7738299"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-13.54766,0)" />
   </defs>
-  <g
-     style="fill-rule:evenodd"
-     transform="translate(.00033 .00033)"
-     id="g385">
-    <rect
-       width="11.853"
-       x=".847"
-       y=".847"
-       rx="5.926"
-       height="11.853"
-       style="fill:#f9f9f9"
-       id="rect387" />
-    <rect
-       width="12.982"
-       x=".282"
-       y=".282"
-       rx="6.491"
-       height="12.982"
-       style="opacity:.5;fill:#fff"
-       id="rect389" />
-  </g>
-  <path
-     style="fill:url(#linearGradient4178)"
-     d="m 0.846664,6.773333 c 0,3.272829 2.653841,5.926671 5.92667,5.926671 3.272827,0 5.926669,-2.653842 5.926669,-5.926671 0,-3.272828 -2.653842,-5.92667 -5.926669,-5.92667 -3.272829,0 -5.92667,2.653842 -5.92667,5.92667 z"
-     id="path391" />
+  <rect
+     id="rect389"
+     style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
+     height="12.982"
+     rx="0.2"
+     y="0.28233001"
+     x="0.28233001"
+     width="12.982" />
+  <rect
+     id="rect387"
+     style="fill:url(#linearGradient3975);fill-opacity:1;fill-rule:evenodd"
+     height="11.853"
+     rx="0.2"
+     y="0.84732997"
+     x="-12.70033"
+     width="11.853"
+     transform="matrix(0,-1,1,0,0,0)" />
   <path
      style="fill:#ffeb48;fill-opacity:1;stroke:none"
      d="M 19.09375 12 C 15.167766 12 12 15.167766 12 19.09375 L 12 26.90625 C 12 30.832234 15.167766 34 19.09375 34 L 28.90625 34 C 32.832234 34 36 30.832234 36 26.90625 L 36 19.09375 C 36 15.167766 32.832234 12 28.90625 12 L 19.09375 12 z M 14 18 L 34 18 L 34 20 L 14 20 L 14 18 z M 14 22 L 34 22 L 34 24 L 14 24 L 14 22 z M 14 26 L 34 26 L 34 28 L 14 28 L 14 26 z "

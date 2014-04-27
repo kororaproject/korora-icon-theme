@@ -168,7 +168,7 @@
        id="rect14"
        style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
        height="45.999214"
-       rx="22.999607"
+       rx="0.2"
        y="0.29379702"
        x="1"
        width="45.999214" />
@@ -176,7 +176,7 @@
        id="rect16"
        style="fill:url(#linearGradient3907);fill-opacity:1;fill-rule:evenodd"
        height="41.998817"
-       rx="20.997637"
+       rx="0.2"
        y="2.2957649"
        x="-45.000786"
        width="41.998817"

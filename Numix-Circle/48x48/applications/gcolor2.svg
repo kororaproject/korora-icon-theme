@@ -1178,7 +1178,7 @@
      width="12.982"
      x=".273"
      y=".293"
-     rx="6.491"
+     rx="0.2"
      height="12.982"
      style="opacity:.5;fill:#fff;color:#bebebe;stroke-width:.184"
      id="rect384" />
@@ -1186,7 +1186,7 @@
      id="rect388"
      style="color:#000000;fill:url(#linearGradient3382);fill-rule:evenodd"
      height="11.853"
-     rx="5.9260001"
+     rx="0.2"
      y="0.85699999"
      x="0.838"
      width="11.853" />

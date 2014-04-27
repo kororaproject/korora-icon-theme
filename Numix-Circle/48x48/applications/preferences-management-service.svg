@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="preferences-desktop-accessibility.svg">
+   sodipodi:docname="preferences-management-service.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -1910,15 +1910,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.0240837"
-     inkscape:cx="59.660356"
-     inkscape:cy="16.997009"
+     inkscape:cx="60.158856"
+     inkscape:cy="16.498509"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="1920"
+     inkscape:window-height="1143"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="29"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -1932,7 +1932,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1941,36 +1941,32 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.1"
-       d="M 24 0 C 10.745166 9.4739031e-15 7.4559567e-17 10.745166 0 24 C -2.3684758e-15 37.254834 10.745166 48 24 48 C 37.254834 48 48 37.254834 48 24 C 48 10.745166 37.254834 -7.0308678e-15 24 0 z M 24 0.5 C 36.978692 0.5 47.5 11.021308 47.5 24 C 47.5 36.978692 36.978692 47.5 24 47.5 C 11.021308 47.5 0.5 36.978692 0.5 24 C 0.5 11.021308 11.021308 0.5 24 0.5 z "
-       id="path3766"
-       transform="translate(0,1004.3622)" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.2"
-       d="M 24 0.5 C 11.021308 0.5 0.5 11.021308 0.5 24 C 0.5 36.978692 11.021308 47.5 24 47.5 C 36.978692 47.5 47.5 36.978692 47.5 24 C 47.5 11.021308 36.978692 0.5 24 0.5 z M 24 0.75 C 36.84062 0.75 47.25 11.15938 47.25 24 C 47.25 36.84062 36.84062 47.25 24 47.25 C 11.15938 47.25 0.75 36.84062 0.75 24 C 0.75 11.15938 11.15938 0.75 24 0.75 z "
-       id="path3764"
-       transform="translate(0,1004.3622)" />
-    <path
-       transform="matrix(0.84640163,0,0,0.66742686,29.844972,1021.4193)"
-       d="m 20.563557,10.402453 c 0,19.238993 -12.2983925,34.835278 -27.4692286,34.835278 -15.1708364,0 -27.4692284,-15.596285 -27.4692284,-34.835278 0,-19.2389921 12.298392,-34.835277 27.4692284,-34.835277 15.1708361,0 27.4692286,15.5962849 27.4692286,34.835277 z"
-       sodipodi:ry="34.835278"
-       sodipodi:rx="27.469229"
-       sodipodi:cy="10.402453"
-       sodipodi:cx="-6.9056716"
-       id="path3762"
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.4"
-       sodipodi:type="arc" />
+    <rect
+       id="rect40"
+       style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
+       height="45.999214"
+       rx="0.70866144"
+       y="1005.365"
+       x="0.99900001"
+       width="45.999214" />
+    <rect
+       id="rect42"
+       style="fill:#eeeeec;fill-rule:evenodd"
+       height="41.619686"
+       rx="0.70866144"
+       y="1007.5547"
+       x="3.1887641"
+       width="41.619686" />
     <path
        sodipodi:type="arc"
-       style="fill:url(#linearGradient4130);fill-opacity:1.0;stroke:none"
+       style="fill:url(#linearGradient4130);fill-opacity:1;stroke:none"
        id="path2985"
        sodipodi:cx="-6.9056716"
        sodipodi:cy="10.402453"
        sodipodi:rx="27.469229"
        sodipodi:ry="34.835278"
        d="m 20.563557,10.402453 c 0,19.238993 -12.2983925,34.835278 -27.4692286,34.835278 -15.1708364,0 -27.4692284,-15.596285 -27.4692284,-34.835278 0,-19.2389921 12.298392,-34.835277 27.4692284,-34.835277 15.1708361,0 27.4692286,15.5962849 27.4692286,34.835277 z"
-       transform="matrix(0.83730054,0,0,0.66025023,29.782123,1021.494)" />
+       transform="matrix(0.65582502,0,0,0.51714837,28.528913,1022.9826)" />
     <path
        id="path3809"
        d="m 24,1013.3622 c -8.284375,0 -15,6.7156 -15,15 0,8.2844 6.715625,15 15,15 8.284375,0 15,-6.7156 15,-15 0,-8.2844 -6.715625,-15 -15,-15 z m 0,2.6375 c 6.815625,0 12.3625,5.5469 12.3625,12.3625 0,6.8187 -5.546875,12.3625 -12.3625,12.3625 -6.81875,0 -12.3625,-5.5438 -12.3625,-12.3625 0,-6.8156 5.54375,-12.3625 12.3625,-12.3625 z m 0,1.9906 c -5.7375,0 -10.371875,4.6344 -10.371875,10.3719 0,5.7375 4.634375,10.3719 10.371875,10.3719 5.7375,0 10.371875,-4.6344 10.371875,-10.3719 0,-5.7375 -4.634375,-10.3719 -10.371875,-10.3719 z"

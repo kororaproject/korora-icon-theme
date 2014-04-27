@@ -24,13 +24,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="712"
+     inkscape:window-width="1920"
+     inkscape:window-height="1143"
      id="namedview29"
      showgrid="true"
      inkscape:zoom="14.925937"
-     inkscape:cx="23.996138"
-     inkscape:cy="32.035834"
+     inkscape:cx="24.130133"
+     inkscape:cy="31.901839"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
@@ -99,24 +99,22 @@
        y2="19.904762"
        gradientUnits="userSpaceOnUse" />
   </defs>
-  <path
-     sodipodi:type="arc"
-     style="fill:#ffffff;fill-opacity:1;stroke:none;opacity:0.50000000000000000"
-     id="path2998"
-     sodipodi:cx="-27.5"
-     sodipodi:cy="23.732759"
-     sodipodi:rx="17.5"
-     sodipodi:ry="19.267241"
-     d="m -10,23.732759 a 17.5,19.267241 0 1 1 -35,0 17.5,19.267241 0 1 1 35,0 z"
-     transform="matrix(0.37092064,0,0,0.33689885,16.973651,-1.2222058)" />
+  <rect
+     id="rect40"
+     style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
+     height="12.982"
+     rx="0.20000002"
+     y="0.28300887"
+     x="0.28194001"
+     width="12.982" />
   <rect
      style="fill:url(#linearGradient2995);fill-opacity:1;fill-rule:evenodd"
      id="rect17"
-     x="0.84666669"
+     x="0.84666646"
      y="0.84666681"
      width="11.853333"
      height="11.853333"
-     rx="5.9276671" />
+     rx="0.2" />
   <g
      transform="matrix(1.8716584,0,0,1.9021617,29.495662,-23.941696)"
      stroke-miterlimit="4"

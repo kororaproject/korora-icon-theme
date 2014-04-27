@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="unity-webapps-hotmail.svg">
+   sodipodi:docname="chrome-pfpeapihoiogbcmdmnibeplnikfnhoge-Default.svg">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -34,15 +34,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="1920"
+     inkscape:window-height="1143"
      id="namedview24"
      showgrid="true"
      inkscape:zoom="10.556063"
-     inkscape:cx="11.83603"
-     inkscape:cy="13.481784"
+     inkscape:cx="-4.4579235"
+     inkscape:cy="13.292319"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -55,15 +55,18 @@
      width="12.982"
      x=".282"
      y=".282"
-     rx="6.491"
+     rx="0.2"
      height="12.982"
      style="opacity:.5;fill:#fff;fill-rule:evenodd"
      id="rect6" />
-  <path
-     style="fill:#0073c6"
-     d="m -33.762712,19.220339 a 19.322035,20.033897 0 1 1 -38.64407,0 19.322035,20.033897 0 1 1 38.64407,0 z"
-     transform="matrix(.30673 0 0 .29583 23.05607 1.08734)"
-     id="path8" />
+  <rect
+     id="rect42"
+     style="fill:#0073c6;fill-opacity:1;fill-rule:evenodd"
+     height="11.746"
+     rx="0.20000002"
+     y="0.90094227"
+     x="0.90000641"
+     width="11.746" />
   <g
      style="fill:#f9f9f9"
      id="g10">

@@ -35,16 +35,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="969"
+     inkscape:window-width="1920"
+     inkscape:window-height="1143"
      id="namedview22"
      showgrid="true"
      showguides="false"
      inkscape:zoom="8"
-     inkscape:cx="17.066365"
-     inkscape:cy="30.892141"
+     inkscape:cx="-4.433635"
+     inkscape:cy="30.642141"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -97,27 +97,34 @@
        id="linearGradient3019"
        xlink:href="#linearGradient3795-6"
        inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3795"
+       id="linearGradient3778"
+       x1="-56.811237"
+       y1="24.002394"
+       x2="-15.191551"
+       y2="24.002394"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(11.999001,-0.003787)" />
   </defs>
   <rect
-     id="rect14-8"
-     style="fill:#f9f9f9;fill-opacity:1"
-     height="46"
-     rx="23"
-     y="1"
-     x="1"
-     width="46" />
-  <g
-     transform="matrix(0.875,0,0,0.875,3,-875.81675)"
-     id="g12">
-    <rect
-       width="48"
-       x="0"
-       y="1004.362"
-       rx="24"
-       height="48"
-       style="fill:url(#linearGradient3801)"
-       id="rect14" />
-  </g>
+     id="rect40"
+     style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd"
+     height="45.999214"
+     rx="0.70866144"
+     y="1.0027858"
+     x="0.99900055"
+     width="45.999214" />
+  <rect
+     id="rect42"
+     style="fill:url(#linearGradient3778);fill-opacity:1;fill-rule:evenodd"
+     height="41.619686"
+     rx="0.70866144"
+     y="3.1887627"
+     x="-44.812237"
+     width="41.619686"
+     transform="matrix(0,-1,1,0,0,0)" />
   <path
      style="fill:#f9f9f9;fill-opacity:1"
      inkscape:connector-curvature="0"

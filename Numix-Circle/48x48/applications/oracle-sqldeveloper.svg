@@ -298,8 +298,8 @@
 <radialGradient cx="328" cy="255.416" gradientTransform="matrix(1.22449 0 0 1.22449 49.7555 -179.34296)" xlink:href="#linearGradient4126-5-6" id="radialGradient4229-8" r="7" gradientUnits="userSpaceOnUse"/>
 </defs>
 <g style="color:#bebebe;stroke-width:.184">
-<rect width="12.982" x=".282" y=".282" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
-<rect width="11.853" x="-12.7" y=".847" rx="5.926" height="11.853" style="fill:url(#linearGradient4624)" transform="matrix(0 -1 1 0 0 0)"/>
+<rect width="12.982" x=".282" y=".282" rx="0.2" height="12.982" style="opacity:.5;fill:#fff"/>
+<rect width="11.853" x="-12.7" y=".847" rx="0.2" height="11.853" style="fill:url(#linearGradient4624)" transform="matrix(0 -1 1 0 0 0)"/>
 </g>
 <g style="fill:#dedede" transform="matrix(.05655 0 0 .05655 -.46567 10.16662)">
 <path d="m 128,-109.90253 c -27.56062,0 -49.902534,6.98168 -49.902534,15.594542 v 12.475633 c 0,8.61267 22.341324,15.594541 49.902534,15.594541 27.56043,0 49.90253,-6.981871 49.90253,-15.594541 v -12.475633 c 0,-8.612862 -22.3421,-15.594542 -49.90253,-15.594542 z"/>

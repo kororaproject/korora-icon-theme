@@ -14,7 +14,7 @@
    inkscape:version="0.48.4 r9939"
    width="100%"
    height="100%"
-   sodipodi:docname="stock_notes-alt-2.svg">
+   sodipodi:docname="stock_notes-alt.svg">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="739"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
      id="namedview22"
      showgrid="true"
      inkscape:zoom="11.64047"
-     inkscape:cx="18.879852"
-     inkscape:cy="31.967365"
+     inkscape:cx="4.4474451"
+     inkscape:cy="16.661137"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -81,24 +81,45 @@
        y1="1053.158"
        x2="0"
        y2="1004.847" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6336"
+       id="linearGradient4267"
+       x1="3.1887541"
+       y1="1028.3645"
+       x2="44.808247"
+       y2="1028.3645"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.00379538,-1052.363)" />
+    <linearGradient
+       id="linearGradient4460-11">
+      <stop
+         offset="0"
+         style="stop-color:#294059"
+         id="stop3090" />
+      <stop
+         offset="1"
+         style="stop-color:#3c5e82"
+         id="stop3092" />
+    </linearGradient>
   </defs>
   <rect
-     id="rect3448"
+     id="rect40"
      style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
-     height="46"
-     rx="23"
-     y="1"
-     x="1"
-     width="46" />
+     height="45.999214"
+     rx="0.70865816"
+     y="1.0027858"
+     x="-59.000999"
+     width="45.999001" />
   <rect
-     id="rect14"
-     transform="scale(1,-1)"
-     style="fill:url(#linearGradient3002)"
-     height="42"
-     rx="21"
-     y="-45"
-     x="3"
-     width="42" />
+     id="rect42"
+     style="fill:url(#linearGradient4267);fill-opacity:1;fill-rule:evenodd"
+     height="41.619686"
+     rx="0.70865816"
+     y="-44.808342"
+     x="3.1926053"
+     width="41.619492"
+     transform="matrix(0,1,-1,0,0,0)" />
   <rect
      ry="2"
      rx="2"

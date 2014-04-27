@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="preferences-deskto-locale.svg">
+   sodipodi:docname="config-language.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -2828,6 +2828,16 @@
          offset="1"
          style="stop-color:#7e748c;stop-opacity:1;" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4460-11"
+       id="linearGradient4267"
+       x1="3.1887541"
+       y1="1028.3645"
+       x2="44.808247"
+       y2="1028.3645"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1004.366,-1052.363)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2837,15 +2847,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="13.039049"
-     inkscape:cx="25.045821"
-     inkscape:cy="24.24461"
+     inkscape:cx="11.854675"
+     inkscape:cy="24.091225"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="1920"
+     inkscape:window-height="1143"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="29"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -2859,7 +2869,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2868,42 +2878,29 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.1"
-       d="M 24 0 C 10.745166 9.4739031e-15 7.4559567e-17 10.745166 0 24 C -2.3684758e-15 37.254834 10.745166 48 24 48 C 37.254834 48 48 37.254834 48 24 C 48 10.745166 37.254834 -7.0308678e-15 24 0 z M 24 0.5 C 36.978692 0.5 47.5 11.021308 47.5 24 C 47.5 36.978692 36.978692 47.5 24 47.5 C 11.021308 47.5 0.5 36.978692 0.5 24 C 0.5 11.021308 11.021308 0.5 24 0.5 z "
-       id="path3766"
-       transform="translate(0,1004.3622)" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.2"
-       d="M 24 0.5 C 11.021308 0.5 0.5 11.021308 0.5 24 C 0.5 36.978692 11.021308 47.5 24 47.5 C 36.978692 47.5 47.5 36.978692 47.5 24 C 47.5 11.021308 36.978692 0.5 24 0.5 z M 24 0.75 C 36.84062 0.75 47.25 11.15938 47.25 24 C 47.25 36.84062 36.84062 47.25 24 47.25 C 11.15938 47.25 0.75 36.84062 0.75 24 C 0.75 11.15938 11.15938 0.75 24 0.75 z "
-       id="path3764"
-       transform="translate(0,1004.3622)" />
-    <path
-       transform="matrix(0.84640163,0,0,0.66742686,29.844972,1021.4193)"
-       d="m 20.563557,10.402453 c 0,19.238993 -12.2983925,34.835278 -27.4692286,34.835278 -15.1708364,0 -27.4692284,-15.596285 -27.4692284,-34.835278 0,-19.2389921 12.298392,-34.835277 27.4692284,-34.835277 15.1708361,0 27.4692286,15.5962849 27.4692286,34.835277 z"
-       sodipodi:ry="34.835278"
-       sodipodi:rx="27.469229"
-       sodipodi:cy="10.402453"
-       sodipodi:cx="-6.9056716"
-       id="path3762"
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.4"
-       sodipodi:type="arc" />
-    <path
-       sodipodi:type="arc"
-       style="fill:url(#linearGradient4130);fill-opacity:1.0;stroke:none"
-       id="path2985"
-       sodipodi:cx="-6.9056716"
-       sodipodi:cy="10.402453"
-       sodipodi:rx="27.469229"
-       sodipodi:ry="34.835278"
-       d="m 20.563557,10.402453 c 0,19.238993 -12.2983925,34.835278 -27.4692286,34.835278 -15.1708364,0 -27.4692284,-15.596285 -27.4692284,-34.835278 0,-19.2389921 12.298392,-34.835277 27.4692284,-34.835277 15.1708361,0 27.4692286,15.5962849 27.4692286,34.835277 z"
-       transform="matrix(0.83730054,0,0,0.66025023,29.782123,1021.494)" />
     <g
        id="g3012"
        transform="matrix(3.543307,0,0,3.543307,-61.359604,1004.9692)" />
     <g
        id="g3012-2"
        transform="matrix(3.543307,0,0,3.543307,-4.964639,1004.5417)" />
+    <rect
+       id="rect40"
+       style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
+       height="45.999214"
+       rx="0.70865816"
+       y="1005.365"
+       x="0.99900001"
+       width="45.999001" />
+    <rect
+       id="rect42"
+       style="fill:url(#linearGradient4267);fill-opacity:1;fill-rule:evenodd"
+       height="41.619686"
+       rx="0.70865816"
+       y="-44.808342"
+       x="1007.5548"
+       width="41.619492"
+       transform="matrix(0,1,-1,0,0,0)" />
     <path
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"

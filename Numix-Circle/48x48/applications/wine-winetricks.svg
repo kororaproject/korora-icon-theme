@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="wine-winecfg.svg">
+   sodipodi:docname="winetricks.svg">
   <metadata
      id="metadata30">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
      id="namedview28"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24.81356"
-     inkscape:cy="24"
+     inkscape:cx="25.22034"
+     inkscape:cy="23.593221"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -124,45 +124,37 @@
        x2="0"
        y2="268.32999" />
   </defs>
+  <rect
+     id="rect8"
+     style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
+     height="12.982"
+     rx="0.2"
+     y="0.28200001"
+     x="0.28200001"
+     width="12.982" />
   <g
-     style="fill-rule:evenodd"
-     id="g6">
-    <rect
-       width="12.982"
-       x=".282"
-       y=".282"
-       rx="6.491"
-       height="12.982"
-       style="opacity:.5;fill:#fff"
-       id="rect8" />
-    <rect
-       width="11.853"
-       x=".847"
-       y=".847"
-       rx="5.926"
-       height="11.853"
-       style="fill:#f9f9f9"
-       id="rect10" />
+     transform="translate(16.986675,-0.05305747)"
+     id="g2990">
     <path
-       style="fill:#fbbc09"
-       d="M 24 24 L 24 45 C 24.06159 45.000535 24.125783 45 24.1875 45 C 35.717246 45 45 35.632691 45 24 L 24 24 z "
-       transform="scale(.28222)"
-       id="path12" />
+       inkscape:connector-curvature="0"
+       id="rect3796"
+       d="m -16.086667,6.7733335 0,5.7238195 c 0,0.1108 0.09205,0.202847 0.202847,0.202847 l 5.670903,0 0.05292,0 0,-5.9266665 -5.873751,0 -0.05292,0 z"
+       style="fill:#00adef;fill-opacity:1;fill-rule:evenodd" />
     <path
-       style="fill:#80cc28"
-       d="M 24 3 L 24 24 L 45 24 C 45 12.367309 35.717246 3 24.1875 3 C 24.125783 3 24.06159 2.9994644 24 3 z "
-       transform="scale(.28222)"
-       id="path14" />
+       inkscape:connector-curvature="0"
+       id="rect3790"
+       d="m -10.16,6.7733335 0,5.9266665 5.7238193,0 c 0.1107999,0 0.2028473,-0.09205 0.2028473,-0.202847 l 0,-5.7238195 -0.052917,0 -5.8737506,0 z"
+       style="fill:#fbbc09;fill-opacity:1;fill-rule:evenodd" />
     <path
-       style="fill:#00adef"
-       d="M 3 24 C 3 35.632691 12.282755 45 23.8125 45 C 23.874217 45 23.93841 45.000535 24 45 L 24 24 L 3 24 z "
-       transform="scale(.28222)"
-       id="path16" />
+       inkscape:connector-curvature="0"
+       id="rect10"
+       d="m -15.88382,0.84666669 c -0.1108,0 -0.202847,0.0920472 -0.202847,0.20284721 l 0,5.7238196 0.05292,0 5.87375,0 0,-5.92666681 -0.05292,0 -5.670903,0 z"
+       style="fill:#f1511b;fill-opacity:1;fill-rule:evenodd" />
     <path
-       style="fill:#f1511b"
-       d="M 23.8125 3 C 12.282755 3 3 12.367309 3 24 L 24 24 L 24 3 C 23.93841 2.9994644 23.874217 3 23.8125 3 z "
-       transform="scale(.28222)"
-       id="path18" />
+       inkscape:connector-curvature="0"
+       id="rect3016"
+       d="m -10.16,0.84666669 0,5.92666681 5.8737499,0 0.052917,0 0,-5.7238196 c 0,-0.11079998 -0.092047,-0.20284721 -0.2028473,-0.20284721 l -5.7238196,0 z"
+       style="fill:#80cc28;fill-opacity:1;fill-rule:evenodd" />
   </g>
   <g
      style="fill:#900417"

@@ -80,7 +80,7 @@
        width="12.982"
        x=".282"
        y=".283"
-       rx="6.491"
+       rx="0.2"
        height="12.982"
        style="opacity:.5;fill:#fff"
        id="rect14" />
@@ -88,7 +88,7 @@
        width="11.853"
        x=".847"
        y=".847"
-       rx="5.926"
+       rx="0.2"
        height="11.853"
        style="fill:url(#linearGradient3007)"
        id="rect16" />

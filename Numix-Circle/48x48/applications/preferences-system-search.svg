@@ -1030,6 +1030,16 @@
          offset="1"
          style="stop-color:#535550;stop-opacity:1;" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4460-5-5"
+       id="linearGradient3960"
+       x1="-56.811234"
+       y1="1028.3645"
+       x2="-15.191547"
+       y2="1028.3645"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-992.36314,-1004.3659)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1039,15 +1049,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.0240837"
-     inkscape:cx="21.914525"
-     inkscape:cy="25.712139"
+     inkscape:cx="0.47905568"
+     inkscape:cy="25.462889"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="1920"
+     inkscape:window-height="1143"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="29"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -1061,7 +1071,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1070,36 +1080,23 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.1"
-       d="M 24 0 C 10.745166 9.4739031e-15 7.4559567e-17 10.745166 0 24 C -2.3684758e-15 37.254834 10.745166 48 24 48 C 37.254834 48 48 37.254834 48 24 C 48 10.745166 37.254834 -7.0308678e-15 24 0 z M 24 0.5 C 36.978692 0.5 47.5 11.021308 47.5 24 C 47.5 36.978692 36.978692 47.5 24 47.5 C 11.021308 47.5 0.5 36.978692 0.5 24 C 0.5 11.021308 11.021308 0.5 24 0.5 z "
-       id="path3766"
-       transform="translate(0,1004.3622)" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.2"
-       d="M 24 0.5 C 11.021308 0.5 0.5 11.021308 0.5 24 C 0.5 36.978692 11.021308 47.5 24 47.5 C 36.978692 47.5 47.5 36.978692 47.5 24 C 47.5 11.021308 36.978692 0.5 24 0.5 z M 24 0.75 C 36.84062 0.75 47.25 11.15938 47.25 24 C 47.25 36.84062 36.84062 47.25 24 47.25 C 11.15938 47.25 0.75 36.84062 0.75 24 C 0.75 11.15938 11.15938 0.75 24 0.75 z "
-       id="path3764"
-       transform="translate(0,1004.3622)" />
-    <path
-       transform="matrix(0.84640163,0,0,0.66742686,29.844972,1021.4193)"
-       d="m 20.563557,10.402453 c 0,19.238993 -12.2983925,34.835278 -27.4692286,34.835278 -15.1708364,0 -27.4692284,-15.596285 -27.4692284,-34.835278 0,-19.2389921 12.298392,-34.835277 27.4692284,-34.835277 15.1708361,0 27.4692286,15.5962849 27.4692286,34.835277 z"
-       sodipodi:ry="34.835278"
-       sodipodi:rx="27.469229"
-       sodipodi:cy="10.402453"
-       sodipodi:cx="-6.9056716"
-       id="path3762"
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.4"
-       sodipodi:type="arc" />
-    <path
-       sodipodi:type="arc"
-       style="fill:url(#linearGradient4130);fill-opacity:1;stroke:none"
-       id="path2985"
-       sodipodi:cx="-6.9056716"
-       sodipodi:cy="10.402453"
-       sodipodi:rx="27.469229"
-       sodipodi:ry="34.835278"
-       d="m 20.563557,10.402453 c 0,19.238993 -12.2983925,34.835278 -27.4692286,34.835278 -15.1708364,0 -27.4692284,-15.596285 -27.4692284,-34.835278 0,-19.2389921 12.298392,-34.835277 27.4692284,-34.835277 15.1708361,0 27.4692286,15.5962849 27.4692286,34.835277 z"
-       transform="matrix(0.83730054,0,0,0.66025023,29.782123,1021.494)" />
+    <rect
+       id="rect40"
+       style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
+       height="45.999214"
+       rx="0.70866144"
+       y="1005.365"
+       x="0.99900001"
+       width="45.999214" />
+    <rect
+       id="rect42"
+       style="fill:url(#linearGradient3960);fill-opacity:1;fill-rule:evenodd"
+       height="41.619686"
+       rx="0.70866144"
+       y="3.1887665"
+       x="-1049.1743"
+       width="41.619686"
+       transform="matrix(0,-1,1,0,0,0)" />
     <path
        id="path3970"
        d="m 24.003025,1016.3627 c -6.605996,0 -12.000392,5.3945 -12.000392,12.0005 0,6.6059 5.394396,12.0004 12.000392,12.0004 6.606017,0 12.000393,-5.3945 12.000393,-12.0004 0,-6.606 -5.394376,-12.0005 -12.000393,-12.0005 z m 0,2.0001 c 5.523021,0 10.000328,4.4774 10.000328,10.0004 0,5.5231 -4.477307,10.0003 -10.000328,10.0003 -5.523021,0 -10.000327,-4.4772 -10.000327,-10.0003 0,-5.523 4.477306,-10.0004 10.000327,-10.0004 z"

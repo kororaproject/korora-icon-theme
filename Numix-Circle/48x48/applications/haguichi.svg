@@ -7,8 +7,8 @@
 </linearGradient>
 </defs>
 <g style="fill-rule:evenodd">
-<rect width="12.982" x=".282" y=".283" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
-<rect width="11.853" x=".847" y=".847" rx="5.926" height="11.853" style="fill:url(#linearGradient3009)"/>
+<rect width="12.982" x=".282" y=".283" rx="0.2" height="12.982" style="opacity:.5;fill:#fff"/>
+<rect width="11.853" x=".847" y=".847" rx="0.2" height="11.853" style="fill:url(#linearGradient3009)"/>
 </g>
 <g style="fill:#ec5b3c">
 <path d="m -42.508475,20.542374 a 8.0338984,9.1525421 0 1 1 -16.067797,0 8.0338984,9.1525421 0 1 1 16.067797,0 z" transform="matrix(.14052 0 0 .12334 14.722 1.69961)"/>

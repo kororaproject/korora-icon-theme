@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="1920"
+     inkscape:window-height="1143"
      id="namedview36"
      showgrid="true"
      inkscape:zoom="14.908369"
-     inkscape:cx="26.279777"
-     inkscape:cy="23.012561"
+     inkscape:cx="14.742633"
+     inkscape:cy="22.878408"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -71,20 +71,34 @@
          style="stop-color:#3c4350"
          id="stop10" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4096"
+       id="linearGradient3776"
+       x1="-10.388883"
+       y1="6.7739425"
+       x2="1.3571177"
+       y2="6.7739425"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.25806,-9.3481667e-4)" />
   </defs>
   <rect
      width="12.982223"
      x="0.28222224"
      y="0.28222221"
-     rx="6.4911113"
+     rx="0.2"
      height="12.982223"
      style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
      id="rect12" />
-  <path
-     style="fill:url(#linearGradient4092)"
-     d="m 12.69988,6.7733808 a 5.92662,5.92662 0 1 1 -2.3e-4,-0.052182"
-     id="path14"
-     inkscape:connector-curvature="0" />
+  <rect
+     id="rect42"
+     style="fill:url(#linearGradient3776);fill-opacity:1;fill-rule:evenodd"
+     height="11.746"
+     rx="0.20000002"
+     y="0.90000641"
+     x="-12.646942"
+     width="11.746"
+     transform="matrix(0,-1,1,0,0,0)" />
   <path
      inkscape:connector-curvature="0"
      id="path18"

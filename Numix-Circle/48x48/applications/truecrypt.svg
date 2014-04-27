@@ -156,8 +156,8 @@
 <linearGradient gradientTransform="matrix(.25 0 0 .25 299.99999 131.99999)" id="linearGradient4863" xlink:href="#outerBackgroundGradient" y1="230" y2="90" x2="0" gradientUnits="userSpaceOnUse"/>
 </defs>
 <g style="fill-rule:evenodd">
-<rect width="12.982" x=".282" y=".282" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
-<rect width="11.853" x=".847" y=".847" rx="5.926" height="11.853" style="fill:url(#linearGradient3001)"/>
+<rect width="12.982" x=".282" y=".282" rx="0.2" height="12.982" style="opacity:.5;fill:#fff"/>
+<rect width="11.853" x=".847" y=".847" rx="0.2" height="11.853" style="fill:url(#linearGradient3001)"/>
 </g>
 <g style="color:#000" transform="matrix(.28222 0 0 .28222 21.92321 -34.3613)">
 <g style="fill:#a0a2dc">

@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="bug-buddy.svg">
+   sodipodi:docname="winpdb.svg">
   <metadata
      id="metadata32">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
      id="namedview30"
      showgrid="false"
      inkscape:zoom="6.7620012"
-     inkscape:cx="99.301806"
-     inkscape:cy="15.316155"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:cx="74.45709"
+     inkscape:cy="15.020385"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -1338,7 +1338,7 @@
      id="rect20"
      style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
      height="12.982"
-     rx="6.4910002"
+     rx="0.2"
      y="0.28200001"
      x="0.28200001"
      width="12.982" />
@@ -1346,15 +1346,15 @@
      id="rect3022"
      style="fill:#4887ba;fill-rule:evenodd;fill-opacity:1"
      height="11.853"
-     rx="5.926167"
+     rx="0.2"
      y="0.8470003"
      x="0.84666669"
      width="11.853333" />
   <path
-     id="path3024"
-     d="m 6.7731664,0.8465995 0,11.8533335 c 0.01738,1.51e-4 0.03503,0 0.05245,0 3.2540416,0 5.8743826,-2.643663 5.8743826,-5.9266666 0,-3.283004 -2.620341,-5.9266669 -5.8743826,-5.9266669 -0.01742,0 -0.03507,-1.512e-4 -0.05245,0 z"
-     style="fill:#ff9834;fill-rule:evenodd;fill-opacity:1"
-     inkscape:connector-curvature="0" />
+     style="fill:#ff9834;fill-opacity:1;fill-rule:evenodd"
+     d="M 24 3 L 24 24 L 24 45 L 44.28125 45 C 44.673848 45 45 44.673848 45 44.28125 L 45 3.71875 C 45 3.3261516 44.673848 3 44.28125 3 L 24 3 z "
+     transform="scale(0.28222223,0.28222223)"
+     id="path3024" />
   <path
      style="fill:#f9f9f9;fill-opacity:1"
      inkscape:connector-curvature="0"

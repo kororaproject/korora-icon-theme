@@ -14,7 +14,7 @@
    inkscape:version="0.48.4 r9939"
    width="100%"
    height="100%"
-   sodipodi:docname="gdu-check-disk.svg">
+   sodipodi:docname="disk-check.svg">
   <metadata
      id="metadata38">
     <rdf:RDF>
@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1280"
-     inkscape:window-height="969"
+     inkscape:window-width="1920"
+     inkscape:window-height="1143"
      id="namedview36"
      showgrid="true"
-     inkscape:zoom="32"
-     inkscape:cx="30.488239"
-     inkscape:cy="23.577369"
+     inkscape:zoom="11.313709"
+     inkscape:cx="33.958853"
+     inkscape:cy="28.920213"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:current-layer="g12">
     <inkscape:grid
@@ -78,7 +78,17 @@
        y1="1053.158"
        x2="0"
        y2="1004.847"
-       gradientTransform="matrix(0.875,0,0,0.875,3,128.54545)" />
+       gradientTransform="matrix(0.875,0,0,0.875,-17,128.54545)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3795"
+       id="linearGradient3774"
+       x1="3.1887665"
+       y1="1028.3645"
+       x2="44.808453"
+       y2="1028.3645"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1052.3631,-1004.3659)" />
   </defs>
   <g
      transform="translate(0,-1004.3622)"
@@ -87,18 +97,19 @@
        width="45.999214"
        x="1"
        y="1005.363"
-       rx="22.999607"
+       rx="0.2"
        height="45.999214"
        style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
        id="rect3903" />
     <rect
-       width="42"
-       x="3"
-       y="1007.3622"
-       rx="21"
-       height="42"
-       style="fill:url(#linearGradient3040)"
-       id="rect14" />
+       id="rect42"
+       style="fill:url(#linearGradient3774);fill-opacity:1;fill-rule:evenodd"
+       height="41.619686"
+       rx="0.2"
+       y="3.1887665"
+       x="-1049.1743"
+       width="41.619686"
+       transform="matrix(0,-1,1,0,0,0)" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff"

@@ -73,7 +73,7 @@
   <rect
      opacity="0.5"
      fill-rule="evenodd"
-     rx="6.4910002"
+     rx="0.2"
      height="12.982"
      width="12.982"
      y="0.28200001"
@@ -81,7 +81,7 @@
      fill="#FFF"
      id="rect13" />
   <rect
-     rx="5.926167"
+     rx="0.2"
      height="11.853333"
      width="11.853333"
      y="0.84666681"

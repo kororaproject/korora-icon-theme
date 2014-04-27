@@ -11,8 +11,8 @@
 </defs>
 <g style="fill-rule:evenodd">
 <g>
-<rect width="12.982" x=".282" y=".282" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
-<rect width="11.853" x=".847" y=".847" rx="5.926" height="11.853" style="fill:url(#linearGradient3127)"/>
+<rect width="12.982" x=".282" y=".282" rx="0.2" height="12.982" style="opacity:.5;fill:#fff"/>
+<rect width="11.853" x=".847" y=".847" rx="0.2" height="11.853" style="fill:url(#linearGradient3127)"/>
 </g>
 <g style="fill:#3434cb" transform="matrix(1 0 0 1.00581 .11357 .46877)">
 <path d="m 5.5553348,8.568613 c 0,0 -0.322311,0.1871841 0.228165,0.2514247 0.6678814,0.075319 1.0079139,0.064244 1.7433586,-0.074209 0,0 0.1938298,0.1207282 0.4629756,0.2259494 C 6.3417289,9.6784261 4.2605531,8.9307981 5.5553348,8.568613"/>

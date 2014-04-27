@@ -75,7 +75,7 @@
     <rect
        id="rect14"
        opacity="0.5"
-       rx="6.491"
+       rx="0.2"
        height="12.982"
        width="12.982"
        y="0.282"
@@ -83,7 +83,7 @@
        fill="#fff" />
     <rect
        id="rect16"
-       rx="5.926"
+       rx="0.2"
        height="11.853"
        width="11.853"
        y="0.847"

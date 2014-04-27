@@ -35,13 +35,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="712"
+     inkscape:window-width="1920"
+     inkscape:window-height="1143"
      id="namedview22"
      showgrid="true"
-     inkscape:zoom="25.960583"
-     inkscape:cx="24.40678"
-     inkscape:cy="20.918405"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="-16.411584"
+     inkscape:cy="9.1538539"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
@@ -70,35 +70,42 @@
        y2=".847"
        x2="0"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3800"
+       id="linearGradient2999"
+       gradientUnits="userSpaceOnUse"
+       y1="12.136"
+       x2="0"
+       y2=".847" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3800"
+       id="linearGradient3002"
+       gradientUnits="userSpaceOnUse"
+       y1="12.136"
+       x2="0"
+       y2=".847" />
   </defs>
-  <g
-     style="fill-rule:evenodd"
-     id="g12">
-    <rect
-       width="12.982"
-       x=".282"
-       y=".282"
-       rx="6.491"
-       height="12.982"
-       style="opacity:.5;fill:#fff"
-       id="rect14" />
-    <rect
-       width="11.853"
-       x=".847"
-       y=".847"
-       rx="5.926"
-       height="11.853"
-       style="fill:url(#linearGradient3806)"
-       id="rect16" />
-  </g>
-  <g
-     style="fill:#ecda00"
-     transform="matrix(0.04233333,0,0,0.04233333,11.477856,10.16)"
-     id="g18">
-    <path
-       d="m -111.13045,-180 c -55.22849,0 -100.00003,44.77165 -100.00003,100.000964 0,55.228025 44.77154,99.999036 100.00003,99.999036 55.228454,0 99.999964,-44.771011 99.999964,-99.999036 0,-31.607774 -17.105079,-61.676084 -39.999969,-80.000974 l 0,66.666673 33.333336,0 -50.000005,53.333339 -50.000006,-53.333339 33.333338,0 0,-83.544983 C -92.060422,-178.72469 -102.9659,-180 -111.13045,-180 z"
-       id="path20"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sssscccccccs" />
-  </g>
+  <rect
+     id="rect14"
+     style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
+     height="12.982"
+     rx="0.2"
+     y="0.28200001"
+     x="0.28200001"
+     width="12.982" />
+  <rect
+     id="rect16"
+     style="fill:url(#linearGradient3002);fill-rule:evenodd"
+     height="11.853"
+     rx="0.2"
+     y="0.847"
+     x="0.847"
+     width="11.853" />
+  <path
+     style="fill:#ffeb55;fill-rule:evenodd"
+     d="m 7.9022225,0.84666669 0,1.82562501 0,2.5047223 0,1.0318751 -1.4111107,0 2.1166662,2.2577778 2.116667,-2.2577778 -1.4111114,0 0,-1.3758334 0,-1.4463889 0,-2.54000011 -1.4111111,0 z"
+     id="path3787"
+     inkscape:connector-curvature="0" />
 </svg>

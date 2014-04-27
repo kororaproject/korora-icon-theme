@@ -26,8 +26,8 @@
 </clipPath>
 </defs>
 <g style="fill-rule:evenodd">
-<rect width="12.982" x=".282" y=".283" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
-<rect width="11.853" x=".847" y="-12.7" rx="5.927" height="11.853" style="fill:#2d2d2d" transform="scale(1 -1)"/>
+<rect width="12.982" x=".282" y=".283" rx="0.2" height="12.982" style="opacity:.5;fill:#fff"/>
+<rect width="11.853" x=".847" y="-12.7" rx="0.2" height="11.853" style="fill:#2d2d2d" transform="scale(1 -1)"/>
 </g>
 <path style="fill:#e8265b" d="m 5.3622224,2.8222225 0,5.6444444 4.2333344,-2.8222221 z"/>
 <path style="fill:#e6e6e6;fill-rule:evenodd" d="M 6.085,35 C 9.5876949,41 16.418482,45 24,45.05 31.590736,45.100061 38.527373,41.343779 41.95,35 z" transform="scale(.28222)"/>

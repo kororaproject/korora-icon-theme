@@ -1047,6 +1047,35 @@
          style="stop-color:#8cb2d6"
          offset="1" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4460-22"
+       id="linearGradient3469"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-295.76183)"
+       y1="279.09601"
+       x2="0"
+       y2="268.32999" />
+    <linearGradient
+       id="linearGradient4460-22">
+      <stop
+         offset="0"
+         style="stop-color:#537454;stop-opacity:1;"
+         id="stop13" />
+      <stop
+         offset="1"
+         style="stop-color:#acc7c8;stop-opacity:1;"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       y2="268.32999"
+       x2="0"
+       y1="279.09601"
+       gradientTransform="matrix(3.9162401,0,0,3.9162401,-475.79198,-43.612708)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3505"
+       xlink:href="#linearGradient4460-22"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1055,16 +1084,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.6026216"
-     inkscape:cx="27.121479"
-     inkscape:cy="27.100441"
+     inkscape:zoom="3.994424"
+     inkscape:cx="5.1281975"
+     inkscape:cy="6.667916"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="1920"
+     inkscape:window-height="1143"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="29"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -1083,50 +1112,22 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1004.3622)">
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.1"
-       d="M 24 0 C 10.745166 9.4739031e-15 7.4559567e-17 10.745166 0 24 C -2.3684758e-15 37.254834 10.745166 48 24 48 C 37.254834 48 48 37.254834 48 24 C 48 10.745166 37.254834 -7.0308678e-15 24 0 z M 24 0.5 C 36.978692 0.5 47.5 11.021308 47.5 24 C 47.5 36.978692 36.978692 47.5 24 47.5 C 11.021308 47.5 0.5 36.978692 0.5 24 C 0.5 11.021308 11.021308 0.5 24 0.5 z "
-       id="path3766"
-       transform="translate(0,1004.3622)" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.2"
-       d="M 24 0.5 C 11.021308 0.5 0.5 11.021308 0.5 24 C 0.5 36.978692 11.021308 47.5 24 47.5 C 36.978692 47.5 47.5 36.978692 47.5 24 C 47.5 11.021308 36.978692 0.5 24 0.5 z M 24 0.75 C 36.84062 0.75 47.25 11.15938 47.25 24 C 47.25 36.84062 36.84062 47.25 24 47.25 C 11.15938 47.25 0.75 36.84062 0.75 24 C 0.75 11.15938 11.15938 0.75 24 0.75 z "
-       id="path3764"
-       transform="translate(0,1004.3622)" />
-    <path
-       transform="matrix(0.84640163,0,0,0.66742686,29.844972,1021.4193)"
-       d="m 20.563557,10.402453 c 0,19.238993 -12.2983925,34.835278 -27.4692286,34.835278 -15.1708364,0 -27.4692284,-15.596285 -27.4692284,-34.835278 0,-19.2389921 12.298392,-34.835277 27.4692284,-34.835277 15.1708361,0 27.4692286,15.5962849 27.4692286,34.835277 z"
-       sodipodi:ry="34.835278"
-       sodipodi:rx="27.469229"
-       sodipodi:cy="10.402453"
-       sodipodi:cx="-6.9056716"
-       id="path3762"
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.4"
-       sodipodi:type="arc" />
     <rect
-       id="rect14-5"
-       style="fill:#acc7c8;fill-opacity:1;fill-rule:evenodd"
-       height="46"
-       rx="23"
-       y="1005.3622"
-       x="1"
-       width="46" />
+       id="rect20"
+       style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
+       height="45.999214"
+       rx="0.70866144"
+       y="1005.365"
+       x="0.99900055"
+       width="45.999214" />
     <rect
-       width="38"
-       x="5"
-       y="1009.3622"
-       rx="19"
-       height="38"
-       style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd"
-       id="rect2993" />
-    <rect
-       id="rect3763"
-       style="fill:#bfcd2f;fill-opacity:1;fill-rule:evenodd"
-       height="28"
-       rx="14"
-       y="1014.3622"
-       x="10"
-       width="28" />
+       id="rect22"
+       style="fill:url(#linearGradient3505);fill-rule:evenodd"
+       height="41.998817"
+       rx="0.70866144"
+       y="1007.3634"
+       x="3"
+       width="41.998817" />
     <path
        style="fill:#f9f9f9;fill-opacity:1"
        id="path3792"

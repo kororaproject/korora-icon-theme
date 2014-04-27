@@ -1202,7 +1202,7 @@
      id="rect386"
      style="opacity:0.5;color:#bebebe;fill:#ffffff;stroke-width:0.184"
      height="12.982"
-     rx="6.4910002"
+     rx="0.2"
      y="0.28200001"
      x="0.28200001"
      width="12.982" />
@@ -1211,7 +1211,7 @@
      transform="matrix(0,-1,1,0,0,0)"
      style="color:#bebebe;fill:url(#linearGradient4181);stroke-width:0.184"
      height="11.853"
-     rx="5.9260001"
+     rx="0.2"
      y="0.847"
      x="-12.7"
      width="11.853" />

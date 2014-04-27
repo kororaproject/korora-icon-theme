@@ -1,8 +1,8 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.546667 13.546667" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs/>
 <g style="fill-rule:evenodd">
-<rect width="12.982" x=".282" y=".282" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
-<rect width="11.853" x=".847" y=".847" rx="5.926" height="11.853" style="fill:#4c0008"/>
+<rect width="12.982" x=".282" y=".282" rx="0.2" height="12.982" style="opacity:.5;fill:#fff"/>
+<rect width="11.853" x=".847" y=".847" rx="0.2" height="11.853" style="fill:#4c0008"/>
 </g>
 <g style="fill:#6f000e">
 <path d="M 18.4375 26.8125 L 5.53125 34.03125 C 9.0327198 40.492856 15.821644 44.886996 23.6875 45 L 22.5625 28.53125 L 18.4375 26.8125 z " transform="scale(.28222)"/>

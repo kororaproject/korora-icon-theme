@@ -8,7 +8,7 @@
 </defs>
 <g style="fill-rule:evenodd">
 <g>
-<rect width="12.982" x=".282" y=".282" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
+<rect width="12.982" x=".282" y=".282" rx="0.2" height="12.982" style="opacity:.5;fill:#fff"/>
 </g>
 <g style="color:#000" transform="translate(-1.29003 1.28947)">
 <path style="fill:url(#linearGradient3795)" d="m 8.063367,11.410528 a 5.9257969,5.9266671 0 1 1 0,-11.85333425 5.9257969,5.9266671 0 1 1 0,11.85333425 z"/>

@@ -102,7 +102,17 @@
        x2="45.000786"
        y2="1028.3608"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(1004.3594,-1052.3622)" />
+       gradientTransform="translate(1004.3594,-992.3622)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3795"
+       id="linearGradient3802"
+       x1="3.1887643"
+       y1="1028.3645"
+       x2="44.808449"
+       y2="1028.3645"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1004.3659,-1052.3631)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -112,17 +122,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313709"
-     inkscape:cx="27.415154"
-     inkscape:cy="27.0465"
+     inkscape:cx="12.212359"
+     inkscape:cy="26.869723"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1024"
-     inkscape:window-height="713"
+     inkscape:window-width="1920"
+     inkscape:window-height="1143"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="29"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -154,35 +164,22 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <rect
-       id="rect14-2"
+       id="rect40"
        style="opacity:0.50000000000000000;fill:#f9f9f9;fill-rule:evenodd;fill-opacity:1"
        height="45.999214"
-       rx="22.999607"
-       y="1005.363"
-       x="1"
+       rx="0.70866138"
+       y="1005.365"
+       x="0.99900001"
        width="45.999214" />
     <rect
-       id="rect16"
-       style="fill:url(#linearGradient3818);fill-opacity:1;fill-rule:evenodd"
-       height="41.998817"
-       rx="21.001181"
-       y="-45.000786"
-       x="1007.3614"
-       width="41.998817"
+       id="rect42"
+       style="fill:url(#linearGradient3802);fill-opacity:1;fill-rule:evenodd"
+       height="41.619686"
+       rx="0.70866138"
+       y="-44.808449"
+       x="1007.5547"
+       width="41.619686"
        transform="matrix(0,1,-1,0,0,0)" />
-    <g
-       transform="translate(72.75649,2.7008655)"
-       id="g12">
-      <rect
-         width="48"
-         x="0"
-         y="-1052.3621"
-         rx="1.9450001"
-         height="48"
-         style="fill:url(#linearGradient3068)"
-         transform="scale(1,-1)"
-         id="rect14" />
-    </g>
     <g
        style="fill:#ffffff"
        transform="matrix(0.75086906,0,0,0.77419355,6.7161066,234.1463)"

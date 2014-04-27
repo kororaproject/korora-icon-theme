@@ -1,8 +1,8 @@
 <svg width="48" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.546667 13.546667" height="48" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs/>
 <g style="fill-rule:evenodd">
-<rect width="12.982" x=".282" y=".283" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
-<rect width="11.853" x=".847" y=".847" rx="5.927" height="11.853" style="fill:#1e478b"/>
+<rect width="12.982" x=".282" y=".283" rx="0.2" height="12.982" style="opacity:.5;fill:#fff"/>
+<rect width="11.853" x=".847" y=".847" rx="0.2" height="11.853" style="fill:#1e478b"/>
 </g>
 <g transform="translate(0 -283.45331)">
 <rect width=".115" x="21.829" y="294.858" rx=".04" height=".079" style="fill:#fff"/>

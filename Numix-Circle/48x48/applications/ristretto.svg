@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="eog2.svg"
+   sodipodi:docname="ristretto.svg"
    inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/Numix-Round/Numix-Circle/48x48/applications/eog2.png"
    inkscape:export-xdpi="900"
    inkscape:export-ydpi="900">
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="712"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
      id="namedview180"
      showgrid="true"
      inkscape:zoom="11.30032"
-     inkscape:cx="24.005904"
-     inkscape:cy="21.898976"
+     inkscape:cx="9.1390684"
+     inkscape:cy="21.72199"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -469,27 +469,49 @@
        xlink:href="#linearGradient4460"
        id="linearGradient3163"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.09524,0,0,1.09524,-133.0015,-293.02234)"
+       gradientTransform="matrix(1.09524,0,0,1.09524,-144.29038,-293.02234)"
        y1="279.096"
        x2="0"
        y2="268.33" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4460"
+       id="linearGradient4267"
+       x1="3.1887541"
+       y1="1028.3645"
+       x2="44.808247"
+       y2="1028.3645"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.28222223,0,0,0.28222222,-13.546896,-283.45429)" />
+    <linearGradient
+       id="linearGradient4460-11">
+      <stop
+         offset="0"
+         style="stop-color:#294059"
+         id="stop3090" />
+      <stop
+         offset="1"
+         style="stop-color:#3c5e82"
+         id="stop3092" />
+    </linearGradient>
   </defs>
   <rect
      id="rect170"
      style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
      height="12.982"
-     rx="6.4910002"
+     rx="0.2"
      y="0.28200001"
      x="0.28200001"
      width="12.982" />
   <rect
-     id="rect172"
-     style="fill:url(#linearGradient3163);fill-rule:evenodd"
+     id="rect42"
+     style="fill:url(#linearGradient4267);fill-opacity:1;fill-rule:evenodd"
      height="11.746"
-     rx="5.8730001"
-     y="0.89999998"
-     x="0.89999998"
-     width="11.746" />
+     rx="0.19999908"
+     y="0.90000582"
+     x="-12.646942"
+     width="11.745946"
+     transform="matrix(0,-1,1,0,0,0)" />
   <path
      sodipodi:type="arc"
      style="fill:#f0b14e;fill-opacity:1;stroke:none"

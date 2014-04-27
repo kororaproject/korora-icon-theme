@@ -92,7 +92,7 @@
        id="rect6"
        style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
        height="45.999214"
-       rx="22.999607"
+       rx="0.2"
        y="1.0007858"
        x="1"
        width="45.999214" />
@@ -100,7 +100,7 @@
        id="rect8"
        style="fill:url(#linearGradient3029);fill-opacity:1;fill-rule:evenodd"
        height="41.998817"
-       rx="20.997637"
+       rx="0.2"
        y="3.0011826"
        x="3"
        width="41.998817" />

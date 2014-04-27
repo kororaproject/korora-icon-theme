@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gns3.svg">
+   sodipodi:docname="Scrivener.svg">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
      id="namedview22"
      showgrid="true"
      inkscape:zoom="6.1359031"
-     inkscape:cx="27.265714"
-     inkscape:cy="28.308462"
+     inkscape:cx="-0.11411864"
+     inkscape:cy="27.982512"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -110,12 +110,39 @@
        y1="279.09601"
        x2="0"
        y2="268.32999" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3795"
+       id="linearGradient2998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.10525,0,0,1.10525,153.75207,-295.76184)"
+       y1="279.09601"
+       x2="0"
+       y2="268.32999" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3795"
+       id="linearGradient3001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.2201686,0,0,5.4054902,-514.57818,-1455.6208)"
+       y1="279.09601"
+       x2="0"
+       y2="268.32999" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3795"
+       id="linearGradient3773"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-295.76183)"
+       y1="279.09601"
+       x2="0"
+       y2="268.32999" />
   </defs>
   <rect
      id="rect14"
      style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
      height="12.982"
-     rx="6.4910002"
+     rx="0.2"
      y="0.28200001"
      x="0.28200001"
      width="12.982" />
@@ -123,13 +150,13 @@
      id="rect16"
      style="fill:url(#linearGradient3776);fill-rule:evenodd"
      height="11.853"
-     rx="5.9260001"
+     rx="0.2"
      y="0.847"
      x="0.847"
      width="11.853" />
   <path
-     style="fill:url(#linearGradient3801);fill-rule:evenodd;fill-opacity:1"
-     d="M 24 3 L 24 45 C 35.632691 45 45 35.632691 45 24 C 45 12.367309 35.632691 3 24 3 z "
+     style="fill:url(#linearGradient3001);fill-opacity:1;fill-rule:evenodd"
+     d="M 24 3 L 24 24 L 24 45 L 44.28125 45 C 44.673848 45 45 44.673848 45 44.28125 L 45 3.71875 C 45 3.3261516 44.673848 3 44.28125 3 L 24 3 z "
      transform="scale(0.28222223,0.28222223)"
      id="rect3786" />
   <path

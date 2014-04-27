@@ -300,8 +300,8 @@
 <radialGradient cx="328" cy="255.416" gradientTransform="matrix(1.22449 0 0 1.22449 49.7555 -179.34296)" r="7" id="radialGradient4279" xlink:href="#linearGradient4126-5" gradientUnits="userSpaceOnUse"/>
 <radialGradient cx="328" cy="255.416" gradientTransform="matrix(2.85714 0 0 2.85714 -609.14349 -473.66662)" r="7" id="radialGradient4225-7" xlink:href="#linearGradient4126-5-5" gradientUnits="userSpaceOnUse"/>
 </defs>
-<rect width="12.982" x=".273" y=".293" rx="6.491" height="12.982" style="opacity:.5;fill:#fff;color:#bebebe;stroke-width:.184"/>
-<rect width="11.853" x=".847" y=".847" rx="5.926" height="11.853" style="fill:url(#linearGradient5390-7-4);fill-rule:evenodd;color:#000"/>
+<rect width="12.982" x=".273" y=".293" rx="0.2" height="12.982" style="opacity:.5;fill:#fff;color:#bebebe;stroke-width:.184"/>
+<rect width="11.853" x=".847" y=".847" rx="0.2" height="11.853" style="fill:url(#linearGradient5390-7-4);fill-rule:evenodd;color:#000"/>
 <g style="fill:#fbe569;color:#bebebe" transform="matrix(.0378 0 0 .0378 1.33048 .9147)">
 <path d="m 200,160 c 0,30.92795 -25.07205,56 -56,56 -30.92795,0 -56,-25.07205 -56,-56 0,-30.92795 25.07205,-56 56,-56 30.92795,0 56,25.07205 56,56 z" transform="translate(0 -4)"/>
 <path style="line-height:normal;clip-path:url(#clipPath4199)" d="M 144,48 C 82.22702,48 32,98.22702 32,160 32,221.77298 82.22702,272 144,272 205.77298,272 256,221.77298 256,160 256,98.22702 205.77298,48 144,48 z m 0,14 c 54.20682,0 98,43.79318 98,98 0,54.20682 -43.79318,98 -98,98 -54.206819,0 -98,-43.79318 -98,-98 0,-54.20682 43.793181,-98 98,-98 z m 0,6 c -50.750978,0 -92,41.24902 -92,92 0,50.75098 41.249022,92 92,92 50.75098,0 92,-41.24902 92,-92 0,-50.75098 -41.24902,-92 -92,-92 z m 0,10 c 45.34658,0 82,36.65342 82,82 0,45.34658 -36.65342,82 -82,82 -45.346576,0 -82,-36.65342 -82,-82 0,-45.34658 36.653424,-82 82,-82 z m 0,9 c -40.80985,0 -74,33.19015 -74,74 0,40.80985 33.19015,74 74,74 40.80985,0 74,-33.19015 74,-74 0,-40.80985 -33.19015,-74 -74,-74 z m 0,10 c 35.40544,0 64,28.59456 64,64 0,35.40544 -28.59456,64 -64,64 -35.40544,0 -64,-28.59456 -64,-64 0,-35.40544 28.59456,-64 64,-64 z" transform="translate(0 -5)"/>

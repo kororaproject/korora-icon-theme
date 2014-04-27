@@ -96,7 +96,7 @@
      id="rect6"
      style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
      height="12.982"
-     rx="6.4910002"
+     rx="0.2"
      y="0.28200001"
      x="0.28200001"
      width="12.982" />
@@ -104,7 +104,7 @@
      id="rect8"
      style="fill:url(#linearGradient3812);fill-rule:evenodd;fill-opacity:1"
      height="11.853"
-     rx="5.9260001"
+     rx="0.2"
      y="0.847"
      x="0.847"
      width="11.853" />
@@ -112,7 +112,7 @@
      width="11.853"
      x="0.847"
      y="0.847"
-     rx="5.9260001"
+     rx="0.2"
      height="11.853"
      style="fill:#121212;fill-rule:evenodd;fill-opacity:1"
      id="rect3020" />

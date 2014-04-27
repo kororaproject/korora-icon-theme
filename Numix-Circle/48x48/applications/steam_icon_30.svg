@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="nvidia-current-updates-settings.svg">
+   sodipodi:docname="steam_icon_30.svg">
   <metadata
      id="metadata34">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
      id="namedview32"
      showgrid="true"
-     inkscape:zoom="5.2731254"
-     inkscape:cx="16.994027"
-     inkscape:cy="11.984319"
+     inkscape:zoom="7.4573255"
+     inkscape:cx="6.0962192"
+     inkscape:cy="13.704908"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -111,23 +111,23 @@
      id="rect22"
      style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
      height="12.982"
-     rx="6.4910002"
+     rx="0.2"
      y="0.28200001"
      x="0.28200001"
      width="12.982" />
   <rect
-     id="rect24"
-     style="fill:#4b7941;fill-rule:evenodd;fill-opacity:1"
+     id="rect3774"
+     style="fill:#c2151c;fill-opacity:1;fill-rule:evenodd"
      height="11.853"
-     rx="5.9260001"
+     rx="0.2"
      y="0.847"
-     x="0.847"
+     x="0.84699929"
      width="11.853" />
   <path
-     inkscape:connector-curvature="0"
-     id="path26"
-     d="m 6.7733335,0.84659922 0,11.85333378 c 0.017382,1.51e-4 0.035031,0 0.052449,0 3.2539505,0 5.8742175,-2.643663 5.8742175,-5.9266669 0,-3.283004 -2.620267,-5.92666688 -5.8742175,-5.92666688 -0.017418,0 -0.035067,-1.5116e-4 -0.052449,0 z"
-     style="fill:#c2151c;fill-rule:evenodd;fill-opacity:1" />
+     style="fill:#4b7941;fill-opacity:1;fill-rule:evenodd"
+     d="m 1.0495142,0.84666669 c -0.11080002,0 -0.20284702,0.0920472 -0.20284702,0.20284721 l 0,11.4476391 c 0,0.1108 0.09205,0.202847 0.20284702,0.202847 l 5.7238193,0 0,-5.9266665 0,-5.92666681 -5.7238193,0 z"
+     id="rect24"
+     inkscape:connector-curvature="0" />
   <path
      style="fill:#2d2d2d;fill-opacity:1;stroke:none"
      d="m 6.7733335,3.3866668 0,6.7733332 1.1288889,0 -0.5644444,-3.1044443 0,-0.5644444 0.5644444,-3.1044446 z"
@@ -141,16 +141,14 @@
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
-     d="M 24,3 C 13.666293,3 5.1230875,10.382316 3.34375,20.1875 22.281571,10.730328 25.778606,23.565851 44.9375,25.59375 44.976373,25.069392 45,24.534627 45,24 45,12.367309 35.632691,3 24,3 z"
-     transform="scale(0.28222223,0.28222223)"
-     id="path3786"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="sccss" />
-  <path
      style="fill:#f9f9f9;fill-opacity:1"
      d="M 6.7733335,3.668889 5.6444446,5.9266668 2.8222223,5.6444446 5.0800001,7.9022224 4.2333334,10.442222 6.7733335,9.0311113 z"
      id="path4"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccc" />
+  <path
+     style="opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+     d="m 1.0495142,0.84666669 c -0.11080002,0 -0.20284802,0.0920472 -0.20284802,0.20284721 l 0,4.4097224 c 0.0328,0.081329 0.06241,0.1546625 0.09701,0.238125 C 6.2883515,3.0283371 7.2752922,6.650807 12.682357,7.2231252 c 0.01097,-0.1479855 -0.01527,-0.3025408 0.01764,-0.4497917 l 0,-5.7238196 c 0,-0.11079998 -0.09205,-0.20284721 -0.202847,-0.20284721 l -11.4476388,0 z"
+     id="rect3002"
+     inkscape:connector-curvature="0" />
 </svg>

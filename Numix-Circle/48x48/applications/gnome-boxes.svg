@@ -95,7 +95,7 @@
        width="12.982"
        x="0.28200001"
        y="0.28200001"
-       rx="6.4910002"
+       rx="0.2"
        height="12.982"
        style="opacity:0.5;fill:#ffffff"
        id="rect14" />
@@ -103,7 +103,7 @@
        width="11.853"
        x="0.847"
        y="0.847"
-       rx="5.9260001"
+       rx="0.2"
        height="11.853"
        style="fill:url(#linearGradient3073)"
        id="rect16" />

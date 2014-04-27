@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="4kvideodownloader.svg">
+   sodipodi:docname="dvdisaster.svg">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="1920"
+     inkscape:window-height="1143"
      id="namedview22"
      showgrid="false"
-     inkscape:zoom="7.4562656"
-     inkscape:cx="24.675011"
-     inkscape:cy="24"
+     inkscape:zoom="10.544752"
+     inkscape:cx="4.4987077"
+     inkscape:cy="29.231443"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -389,61 +389,73 @@
      id="rect14"
      style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
      height="12.982"
-     rx="6.4910002"
+     rx="0.2"
      y="0.28299999"
-     x="0.28200001"
+     x="0.28199875"
      width="12.982" />
-  <circle
-     d="M 464,233 C 464,360.57778 360.57778,464 233,464 105.42222,464 2,360.57778 2,233 2,105.42222 105.42222,2 233,2 360.57778,2 464,105.42222 464,233 z"
-     sodipodi:ry="231"
-     sodipodi:rx="231"
-     sodipodi:cy="233"
-     sodipodi:cx="233"
-     cx="233"
-     cy="233"
-     r="231"
-     id="circle3051"
-     transform="matrix(0.02565657,0,0,0.02565657,0.79535355,0.79535183)"
-     style="fill:#4658f5;fill-opacity:1" />
-  <path
-     style="fill:#f9f9f9;fill-opacity:1"
-     inkscape:connector-curvature="0"
-     d="m 6.7733344,12.571717 a 5.7983848,5.7983848 0 1 1 0,-11.59676918 2.8991924,2.8991924 0 0 1 0,5.79838478 z"
-     id="path3053" />
-  <circle
-     d="m 346,346 c 0,62.40818 -50.59182,113 -113,113 -62.40818,0 -113,-50.59182 -113,-113 0,-62.40818 50.59182,-113 113,-113 62.40818,0 113,50.59182 113,113 z"
-     style="fill:#4658f5;fill-opacity:1"
-     sodipodi:ry="113"
-     sodipodi:rx="113"
-     sodipodi:cy="346"
-     sodipodi:cx="233"
-     cx="233"
-     cy="346"
-     r="113"
-     id="circle3055"
-     transform="matrix(0.02565657,0,0,0.02565657,0.79535355,0.79535183)" />
-  <circle
-     d="m 263,120 c 0,16.56854 -13.43146,30 -30,30 -16.56854,0 -30,-13.43146 -30,-30 0,-16.56854 13.43146,-30 30,-30 16.56854,0 30,13.43146 30,30 z"
-     sodipodi:ry="30"
-     sodipodi:rx="30"
-     sodipodi:cy="120"
-     sodipodi:cx="233"
-     cx="233"
-     cy="120"
-     r="30"
-     id="circle3057"
-     transform="matrix(0.02565657,0,0,0.02565657,0.79535355,0.79535183)"
-     style="fill:#4658f5;fill-opacity:1" />
-  <circle
-     d="m 263,346 c 0,16.56854 -13.43146,30 -30,30 -16.56854,0 -30,-13.43146 -30,-30 0,-16.56854 13.43146,-30 30,-30 16.56854,0 30,13.43146 30,30 z"
-     style="fill:#f9f9f9;fill-opacity:1"
-     sodipodi:ry="30"
-     sodipodi:rx="30"
-     sodipodi:cy="346"
-     sodipodi:cx="233"
-     cx="233"
-     cy="346"
-     r="30"
-     id="circle3059"
-     transform="matrix(0.02565657,0,0,0.02565657,0.79535355,0.79535183)" />
+  <rect
+     id="rect42"
+     style="fill:#f9f9f9;fill-rule:evenodd;fill-opacity:1"
+     height="11.746"
+     rx="0.20000002"
+     y="0.90100884"
+     x="0.89993751"
+     width="11.746" />
+  <g
+     id="g3052"
+     transform="matrix(1.0075814,0,0,1.0075814,-0.05170836,-0.05074504)">
+    <circle
+       style="fill:#4658f5;fill-opacity:1"
+       transform="matrix(0.02303842,0,0,0.02303842,1.4053431,1.4054503)"
+       id="circle3051"
+       r="231"
+       cy="233"
+       cx="233"
+       sodipodi:cx="233"
+       sodipodi:cy="233"
+       sodipodi:rx="231"
+       sodipodi:ry="231"
+       d="M 464,233 C 464,360.57778 360.57778,464 233,464 105.42222,464 2,360.57778 2,233 2,105.42222 105.42222,2 233,2 360.57778,2 464,105.42222 464,233 z" />
+    <path
+       id="path3053"
+       d="m 6.7732944,11.980084 a 5.2066825,5.2066825 0 1 1 0,-10.4133648 2.6033413,2.6033413 0 0 1 0,5.2066825 z"
+       inkscape:connector-curvature="0"
+       style="fill:#f9f9f9;fill-opacity:1" />
+    <circle
+       transform="matrix(0.02303842,0,0,0.02303842,1.4053431,1.4054503)"
+       id="circle3055"
+       r="113"
+       cy="346"
+       cx="233"
+       sodipodi:cx="233"
+       sodipodi:cy="346"
+       sodipodi:rx="113"
+       sodipodi:ry="113"
+       style="fill:#4658f5;fill-opacity:1"
+       d="m 346,346 c 0,62.40818 -50.59182,113 -113,113 -62.40818,0 -113,-50.59182 -113,-113 0,-62.40818 50.59182,-113 113,-113 62.40818,0 113,50.59182 113,113 z" />
+    <circle
+       style="fill:#4658f5;fill-opacity:1"
+       transform="matrix(0.02303842,0,0,0.02303842,1.4053431,1.4054503)"
+       id="circle3057"
+       r="30"
+       cy="120"
+       cx="233"
+       sodipodi:cx="233"
+       sodipodi:cy="120"
+       sodipodi:rx="30"
+       sodipodi:ry="30"
+       d="m 263,120 c 0,16.56854 -13.43146,30 -30,30 -16.56854,0 -30,-13.43146 -30,-30 0,-16.56854 13.43146,-30 30,-30 16.56854,0 30,13.43146 30,30 z" />
+    <circle
+       transform="matrix(0.02303842,0,0,0.02303842,1.4053431,1.4054503)"
+       id="circle3059"
+       r="30"
+       cy="346"
+       cx="233"
+       sodipodi:cx="233"
+       sodipodi:cy="346"
+       sodipodi:rx="30"
+       sodipodi:ry="30"
+       style="fill:#f9f9f9;fill-opacity:1"
+       d="m 263,346 c 0,16.56854 -13.43146,30 -30,30 -16.56854,0 -30,-13.43146 -30,-30 0,-16.56854 13.43146,-30 30,-30 16.56854,0 30,13.43146 30,30 z" />
+  </g>
 </svg>

@@ -66,8 +66,8 @@
 </linearGradient>
 </defs>
 <g style="fill-rule:evenodd">
-<rect width="12.982" x=".282" y=".282" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
-<rect width="11.853" x=".847" y=".847" rx="5.926" height="11.853" style="fill:url(#linearGradient3001)"/>
+<rect width="12.982" x=".282" y=".282" rx="0.2" height="12.982" style="opacity:.5;fill:#fff"/>
+<rect width="11.853" x=".847" y=".847" rx="0.2" height="11.853" style="fill:url(#linearGradient3001)"/>
 </g>
 <g transform="matrix(.03581 0 0 .03581 2.18934 9.63833)">
 <path style="fill:none" d="m 166.59171,-79.986127 0,-97.757763 1.29287,0.2033 c 0.71124,0.11181 13.9838,1.27764 29.49434,2.5907 15.51105,1.31306 28.29666,2.47415 28.41292,2.58019 0.37833,0.34565 -2.53314,185.530212 -2.92295,185.885923 -0.20806,0.190071 -12.95543,1.225299 -28.32774,2.3005 l -27.94944,1.95489 0,-97.75774 z"/>

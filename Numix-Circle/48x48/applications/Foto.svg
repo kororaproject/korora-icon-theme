@@ -488,7 +488,7 @@
      id="rect170"
      style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
      height="12.982"
-     rx="6.4910002"
+     rx="0.2"
      y="0.28200001"
      x="0.28200001"
      width="12.982" />
@@ -496,7 +496,7 @@
      id="rect172"
      style="fill:url(#linearGradient3160);fill-rule:evenodd"
      height="11.853333"
-     rx="5.9266667"
+     rx="0.2"
      y="0.84666681"
      x="0.84666669"
      width="11.853333" />

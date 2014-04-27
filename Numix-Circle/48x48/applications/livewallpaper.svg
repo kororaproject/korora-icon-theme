@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1024"
-     inkscape:window-height="713"
+     inkscape:window-width="1920"
+     inkscape:window-height="1143"
      id="namedview48"
      showgrid="true"
      inkscape:zoom="4.9166667"
-     inkscape:cx="2.0309786"
-     inkscape:cy="17.363248"
+     inkscape:cx="-32.952072"
+     inkscape:cy="16.956468"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="29"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -95,10 +95,20 @@
        xlink:href="#linearGradient3881"
        id="linearGradient3051"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.9162401,0,0,3.9162401,-475.79001,-1047.9745)"
+       gradientTransform="matrix(3.9162401,0,0,3.9162401,-555.79001,-1047.9745)"
        y1="279.09601"
        x2="0"
        y2="268.32999" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3881"
+       id="linearGradient3787"
+       x1="3.1889999"
+       y1="24.001158"
+       x2="44.808685"
+       y2="24.001158"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-48,-0.00231409)" />
   </defs>
   <rect
      id="rect14-0"
@@ -109,13 +119,14 @@
      x="1"
      width="45.999214" />
   <rect
-     id="rect16"
-     style="fill:url(#linearGradient3051);fill-rule:evenodd;fill-opacity:1.0"
-     height="41.998817"
-     rx="20.997637"
-     y="3.0027556"
-     x="3.0019684"
-     width="41.998817" />
+     id="rect42"
+     style="fill:url(#linearGradient3787);fill-opacity:1;fill-rule:evenodd"
+     height="41.619686"
+     rx="0.70866144"
+     y="3.1889999"
+     x="-44.811001"
+     width="41.619686"
+     transform="matrix(0,-1,1,0,0,0)" />
   <path
      id="path3034"
      d="m 12.806261,12 c -0.439152,0.047 -0.808611,0.4588 -0.80625,0.9007 L 12,28 c 4.6e-5,0.4715 0.528773,0.9999 1,1 l 8.999999,0 0,6 4,0 0,-6 9,0 c 0.471226,-10e-5 0.999954,-0.5281 1,-1 l 0,-15.0993 C 35.999953,12.4292 35.571226,12.0001 35.1,12 L 12.900011,12 z M 15,14 32.999999,14 c 0.466564,0 1,0.587 1,1 l 0,11 c 0,0.4668 -0.560333,1 -1,1 L 15,27 c -0.529325,0 -1,-0.4794 -1,-1 l 0,-11 c 0,-0.4057 0.509785,-1 1,-1 z m 0,19 0,3 17.999999,0 0,-3 z"

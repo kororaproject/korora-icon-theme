@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="access.svg">
+   sodipodi:docname="workspace-overview.svg">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
      id="namedview22"
      showgrid="true"
      inkscape:zoom="6.4892445"
-     inkscape:cx="24.408237"
-     inkscape:cy="25.48918"
+     inkscape:cx="-1.4807552"
+     inkscape:cy="25.180978"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2">
     <inkscape:grid
@@ -99,12 +99,21 @@
        y1="279.096"
        x2="0"
        y2="268.33" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4460"
+       id="linearGradient3001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.9162401,0,0,3.9162401,-515.79077,-1047.975)"
+       y1="279.096"
+       x2="0"
+       y2="268.33" />
   </defs>
   <rect
      id="rect14"
      style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
      height="12.982"
-     rx="6.4910002"
+     rx="0.2"
      y="0.28200001"
      x="0.28200001"
      width="12.982" />
@@ -112,15 +121,15 @@
      id="rect16"
      style="fill:url(#linearGradient3014);fill-rule:evenodd"
      height="11.853"
-     rx="5.9260001"
+     rx="0.2"
      y="0.847"
      x="0.847"
      width="11.853" />
   <path
-     style="fill:#2d2d2d;fill-rule:evenodd;fill-opacity:1;opacity:1"
-     d="M 4.1875 31 C 7.055122 39.176068 14.820206 45 24 45 C 33.179794 45 40.944878 39.176068 43.8125 31 L 4.1875 31 z "
-     transform="scale(0.28222223,0.28222223)"
-     id="rect3003" />
+     style="fill:#2d2d2d;fill-opacity:1;fill-rule:evenodd"
+     d="m 0.84666668,8.7488891 0,3.7482639 c 0,0.1108 0.092047,0.202847 0.20284722,0.202847 l 11.4476391,0 C 12.607953,12.7 12.7,12.60795 12.7,12.497153 l 0,-3.7482639 -5.9266665,0 -5.92666682,0 z"
+     id="rect2999"
+     inkscape:connector-curvature="0" />
   <rect
      style="fill:#f9f9f9;fill-opacity:1;stroke:none"
      id="rect3786"

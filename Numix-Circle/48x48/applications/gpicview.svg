@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gthumb.svg"
+   sodipodi:docname="gpicview.svg"
    inkscape:export-filename="/media/Data/Main/Visuals/Icons/Numix/Desktop/repos/Numix-Round/Numix-Circle/48x48/applications/eog.png"
    inkscape:export-xdpi="900"
    inkscape:export-ydpi="900">
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,13 +39,13 @@
      guidetolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="739"
+     inkscape:window-width="1920"
+     inkscape:window-height="1143"
      id="namedview180"
      showgrid="true"
      inkscape:zoom="9.6382308"
-     inkscape:cx="22.290944"
-     inkscape:cy="28.240235"
+     inkscape:cx="4.4453452"
+     inkscape:cy="28.032728"
      inkscape:window-x="0"
      inkscape:window-y="29"
      inkscape:window-maximized="1"
@@ -544,23 +544,34 @@
        x2="35"
        y2="24"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3847"
+       id="linearGradient3872"
+       x1="-15.186667"
+       y1="5.3628893"
+       x2="-3.4406672"
+       y2="5.3628893"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0000076,2.5397247,1.410122)" />
   </defs>
   <rect
      id="rect170"
      style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
      height="12.982"
-     rx="6.4910002"
+     rx="0.2"
      y="0.28200001"
      x="0.28200001"
      width="12.982" />
   <rect
-     id="rect172"
-     style="fill:url(#linearGradient3853);fill-rule:evenodd;fill-opacity:1"
-     height="11.746"
-     rx="5.8730001"
-     y="0.89999998"
-     x="0.89999998"
-     width="11.746" />
+     id="rect42"
+     style="fill:url(#linearGradient3872);fill-opacity:1;fill-rule:evenodd"
+     height="11.746089"
+     rx="0.20000002"
+     y="0.90000689"
+     x="-12.646942"
+     width="11.746"
+     transform="matrix(0,-1,1,0,0,0)" />
   <path
      style="fill:#9cbef7;fill-opacity:1;stroke:none"
      d="m 12.9,12.9 22.2,0 0,22.2 -22.2,0 z"

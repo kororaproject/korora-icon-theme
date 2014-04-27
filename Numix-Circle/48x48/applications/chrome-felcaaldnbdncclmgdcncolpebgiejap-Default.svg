@@ -130,7 +130,7 @@
        id="rect14"
        style="opacity:0.5;fill:#ffffff;fill-rule:evenodd"
        height="45.999214"
-       rx="22.999607"
+       rx="0.2"
        y="1.0008281"
        x="1.0003936"
        width="45.999214" />
@@ -138,7 +138,7 @@
        id="rect16"
        style="fill:url(#linearGradient3020);fill-rule:evenodd"
        height="41.998817"
-       rx="20.997637"
+       rx="0.2"
        y="3.0011826"
        x="3"
        width="41.998817" />
@@ -146,7 +146,7 @@
        id="rect18"
        style="opacity:0.50000000000000000;fill:#a5ff7d;fill-rule:evenodd;fill-opacity:0.86407769"
        height="31.999605"
-       rx="16.001574"
+       rx="0.2"
        y="7.9988809"
        x="8.0019674"
        width="31.999605" />
