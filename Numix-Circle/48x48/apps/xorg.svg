@@ -30,7 +30,7 @@
   </linearGradient>
   <linearGradient xlink:href="#0" id="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00917,0,0,1.00917,-0.06192,-0.06293)" x1="10.968" y1="2.579" x2="2.858" y2="11.249"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
  <path d="M 4.2333334,3.3866667 6.2175737,7.0287138 4.5123003,10.16 4.7901787,10.16 6.3565141,7.2829436 6.7147169,6.6260852 7.0512136,6.0083428 5.6227349,3.3866667 l -1.3894015,0 z m 4.5231536,0 L 7.190154,6.2637216 6.6712999,7.2150724 6.4954521,7.5383224 7.9239308,10.16 l 1.3894015,0 -1.9842403,-3.6420486 1.7052734,-3.1312847 -0.2778784,0 z" fill="#2d2d2d" color="#bebebe"/>
 </svg>
