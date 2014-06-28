@@ -1,8 +1,6 @@
 [Icon Theme]
-Name=Numix-Circle
-Comment=Numix icon theme with a circular apps icons design
-
-Inherits=Numix
+Name=Korora-Square
+Comment=Korora icon theme with a square apps icons design built on Numix-Circle
 
 Example=directory-x-normal
 
