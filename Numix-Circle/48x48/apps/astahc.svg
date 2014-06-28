@@ -42,8 +42,8 @@
    <stop offset="1" stop-color="#ffd452"/>
   </linearGradient>
  </defs>
- <rect height="12.982" rx="6.491" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.927" y="0.847" x="0.847" width="11.853" fill="url(#0)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#0)" fill-rule="evenodd"/>
  <g transform="matrix(0.28222223,0,0,0.28222223,22.299568,-44.227474)">
   <path d="m -58.310705,165.71152 c -1.59867,3.72818 -0.3851,5.99161 0.0452,7.56864 l 2.52764,-0.3365 c -0.53448,-1.95869 -1.4566,-4.21031 -0.1608,-7.23214 z" color="#000000" fill="#ffffff"/>
   <path d="m -39.014215,171.97938 c -4.18091,0 -8.201,0.80357 -13.34673,2.73214 l 1.76884,1.60715 c 2.57286,-1.28572 6.75377,-2.73215 11.57789,-2.73215 z" color="#000000" fill="#ffffff"/>
