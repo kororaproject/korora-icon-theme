@@ -90,7 +90,7 @@
    <use transform="matrix(4.3233 0 0 4.3233 -2450.68 -2667.55)" xlink:href="#1"/>
   </clipPath>
  </defs>
- <rect height="12.982" rx="6.491" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
  <circle cx="233" cy="233" r="231" transform="matrix(0.02565657,0,0,0.02565657,0.79535355,0.79535183)" fill="#4658f5"/>
  <path d="m 6.7733344,12.571717 a 5.7983848,5.7983848 0 1 1 0,-11.59676918 2.8991924,2.8991924 0 0 1 0,5.79838478 z" fill="#f9f9f9"/>
  <circle cx="233" cy="346" r="113" transform="matrix(0.02565657,0,0,0.02565657,0.79535355,0.79535183)" fill="#4658f5"/>
