@@ -67,8 +67,8 @@
    <stop offset="1" stop-color="#eeeeee"/>
   </linearGradient>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#0)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#0)" fill-rule="evenodd"/>
  <g transform="matrix(0.28222223,0,0,0.28222223,10.600523,-37.831416)">
   <path d="M 12 12 L 12 23 L 18 23 L 18 25 L 12 25 L 12 36 L 23 36 L 23 30 L 25 30 L 25 36 L 36 36 L 36 25 L 30 25 L 30 23 L 36 23 L 36 12 L 25 12 L 25 18 L 23 18 L 23 12 L 12 12 z " transform="translate(-37.560907,134.04832)" fill="#ba7695"/>
   <path d="m 13,35 0,-9 6,0 0,-4 -6,0 0,-9 9,0 0,6 4,0 0,-6 9,0 0,9 -6,0 0,4 6,0 0,9 -9,0 0,-6 -4,0 0,6 z" transform="translate(-37.560907,134.04832)" fill="#f0d8e5"/>
