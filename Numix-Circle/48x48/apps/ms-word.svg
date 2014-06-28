@@ -62,7 +62,7 @@
   </clipPath>
   <linearGradient xlink:href="#0" id="5" gradientUnits="userSpaceOnUse" y1="0.899" x2="0" y2="12.7" gradientTransform="translate(0,-13.547)" x1="-0.034"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="-12.7" x="0.847" width="11.853" transform="scale(1,-1)" fill="url(#5)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="-12.7" x="0.847" width="11.853" transform="scale(1,-1)" fill="url(#5)" fill-rule="evenodd"/>
  <path d="m 4.2333334,10.16 -1.4111111,-6.7733333 1.4111111,0 0.7661457,3.668889 0.9271877,-3.668889 1.4111112,0 0.9898209,3.9511113 0.7035124,-2.8222223 -0.5644444,0 0,-1.1288891 2.2577781,-7.9e-6 L 9.0311113,10.16 7.6200002,10.16 6.6322224,6.208889 5.6444446,10.16 z" fill="#f9f9f9"/>
 </svg>
