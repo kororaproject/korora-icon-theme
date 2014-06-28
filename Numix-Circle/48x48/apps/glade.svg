@@ -12,8 +12,8 @@
 </linearGradient>
 </defs>
 <g style="fill-rule:evenodd">
-<rect width="12.982" x=".282" y=".283" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
-<rect width="11.853" x=".847" y=".847" rx="5.927" height="11.853" style="fill:url(#linearGradient3009)"/>
+<rect width="12.982" x=".282" y=".283" rx="0.5" height="12.982" style="opacity:.5;fill:#fff"/>
+<rect width="11.853" x=".847" y=".847" rx="0.5" height="11.853" style="fill:url(#linearGradient3009)"/>
 <path style="fill:url(#linearGradient3006)" d="m 10.442222,3.668889 -7.3377775,6.208889 7.3377775,0 z m -1.146527,2.7319055 0,2.2352122 -2.7516679,0 z"/>
 </g>
 </svg>
