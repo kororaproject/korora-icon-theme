@@ -67,7 +67,7 @@
   </linearGradient>
   <linearGradient xlink:href="#A" id="B" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.10525,0,0,1.10525,-134.27852,-295.76139)" y1="279.1" x2="0" y2="268.33"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#B)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#B)" fill-rule="evenodd"/>
  <path d="M 6.7733335,4.5154412 5.7150002,6.2087746 4.2333334,5.3621079 4.5155557,6.9848857 3.1044445,7.3376635 4.5155557,8.4665524 c -4.234e-4,-0.017859 0,0.017958 0,0 0,-1.2469363 1.0108416,-2.2577778 2.2577778,-2.2577778 1.2469363,0 2.2577779,1.0108415 2.2577779,2.2577778 0,0.017958 4.233e-4,-0.017859 0,0 L 10.442223,7.3376635 9.0311114,6.9848857 9.3133336,5.3621079 7.8316669,6.2087746 z" fill="#f9f9f9"/>
 </svg>
