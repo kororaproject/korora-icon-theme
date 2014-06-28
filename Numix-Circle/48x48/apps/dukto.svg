@@ -194,7 +194,7 @@
   </linearGradient>
   <linearGradient xlink:href="#E" id="F" x1="12" x2="36" gradientUnits="userSpaceOnUse"/>
  </defs>
- <rect width="12.982" x="0.282" y="0.282" rx="6.491" height="12.982" opacity="0.5" fill="#fff" color="#bebebe" stroke-width="0.184"/>
- <rect width="11.853" x="0.847" y="0.847" rx="5.926" height="11.853" fill="url(#3)" fill-rule="evenodd" color="#000"/>
+ <rect width="12.982" x="0.282" y="0.282" rx="0.5" height="12.982" opacity="0.5" fill="#fff" color="#bebebe" stroke-width="0.184"/>
+ <rect width="11.853" x="0.847" y="0.847" rx="0.5" height="11.853" fill="url(#3)" fill-rule="evenodd" color="#000"/>
  <path d="M 12 12 L 12 18 L 15 18 L 15 36 L 33 36 L 33 18 L 36 18 L 36 12 L 12 12 z " transform="scale(0.28222223,0.28222223)" fill="url(#F)" fill-rule="evenodd"/>
 </svg>
