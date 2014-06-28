@@ -151,8 +151,8 @@
   </linearGradient>
   <linearGradient xlink:href="#4" id="5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.10528,0,0,1.10528,-134.28266,-295.77008)" y1="279.1" x2="0" y2="268.33"/>
  </defs>
- <rect width="12.982" x="0.282" y="0.282" rx="6.491" height="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect width="11.853" x="0.847" y="0.847" rx="5.926" height="11.853" fill="url(#5)" fill-rule="evenodd"/>
+ <rect width="12.982" x="0.282" y="0.282" rx="0.5" height="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect width="11.853" x="0.847" y="0.847" rx="0.5" height="11.853" fill="url(#5)" fill-rule="evenodd"/>
  <rect width="1" height="3" x="23" y="33" transform="scale(0.28222223,0.28222223)" fill="#9d9d9d"/>
  <rect width="1" height="3" x="25" y="33" transform="scale(0.28222223,0.28222223)" fill="#9d9d9d"/>
  <path d="M 23 27 L 23 29 L 22 29 L 22 33 L 27 33 L 27 29 L 26 29 L 26 27 L 25 27 L 25 29 L 24 29 L 24 27 L 23 27 z " transform="scale(0.28222223,0.28222223)" fill="#141414"/>
