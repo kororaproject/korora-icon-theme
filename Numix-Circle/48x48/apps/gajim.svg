@@ -9,8 +9,8 @@
    <stop offset="1" stop-color="#3e90e0"/>
   </linearGradient>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
  <g transform="matrix(0.24242,0,0,0.24561,-0.84732,-246.08611)" fill="#f9f9f9" stroke="#f9f9f9" stroke-width="1.735">
   <rect transform="matrix(0.96593,-0.25882,0.25882,0.96593,0,0)" height="21.263" rx="10.632" y="989.55" x="-249.84" width="28.767" stroke-linejoin="round" stroke-linecap="round"/>
  </g>
