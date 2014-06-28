@@ -6,8 +6,8 @@
   </linearGradient>
   <linearGradient xlink:href="#0" id="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.10528,0,0,1.10528,-134.28255,-295.77052)" y1="279.1" x2="0" y2="268.33"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
  <path d="m 7.337778,6.4911113 c 0,0.5642136 0,1.3887044 0,1.9755556 l 0.2822222,0 0,-1.6933333 0.5644444,-1e-7 0,-0.2822222 z" fill="#2d2d2d"/>
  <path d="m 4.7977779,4.2333335 c 0,0.5642136 0,1.1064822 0,1.6933334 l 0.2822222,0 0,-1.4111111 1.128889,0 0,-0.2822223 z" fill="#2d2d2d"/>
  <rect width="1.578" height="1.013" x="3.444" y="-7.28" rx="0.116" ry="0.09" transform="matrix(0,1,-1,0,0,0)" fill="#d6cfbd" stroke="#6f6751" stroke-width="0.115"/>
