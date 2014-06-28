@@ -17,8 +17,8 @@
   <radialGradient xlink:href="#1" id="5" gradientUnits="userSpaceOnUse" cx="6.209" cy="5.927" r="0.282" gradientTransform="matrix(1.4999999,0,0,1.4999999,-2.5399997,-1.2699997)"/>
   <radialGradient xlink:href="#0" id="6" cx="6.773" cy="6.773" r="3.669" gradientUnits="userSpaceOnUse"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.927" y="0.847" x="0.847" width="11.853" fill="url(#3)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#3)" fill-rule="evenodd"/>
  <rect width="1.129" x="3.669" y="2.54" rx="0.564" height="1.129" fill="#ff7373" fill-rule="evenodd"/>
  <path d="M 5,15 C 4.1160924,16.868421 3.5056278,18.874148 3.205,21 L 44.8,21 C 44.499372,18.874148 43.883908,16.868421 43,15 z" transform="scale(0.28222223,0.28222223)" fill="#976cb2"/>
  <path d="M 3.205,21 C 3.0668982,21.97657 3,22.984118 3,24 c 0,1.015882 0.067898,2.02343 0.206,3 L 44.8,27 c 0.138102,-0.97657 0.2,-1.984118 0.2,-3 0,-1.015882 -0.0619,-2.02343 -0.2,-3 z" transform="scale(0.28222223,0.28222223)" fill="#dedd8e"/>
