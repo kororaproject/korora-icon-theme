@@ -42,7 +42,7 @@
   </linearGradient>
   <linearGradient xlink:href="#9" id="A" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.10528,0,0,1.10528,-134.28288,-295.77052)" y1="279.1" x2="0" y2="268.33"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#A)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#A)" fill-rule="evenodd"/>
  <path d="M 20 14 L 20 17 L 21 17 L 21 19 L 22 19 L 22 21 L 21 21 L 21 19 L 19 19 L 19 24 L 20 24 L 20 25 L 22 25 L 22 26 L 20 26 L 20 27 L 19 27 L 19 33 L 20 33 L 20 34 L 28 34 L 28 33 L 29 33 L 29 27 L 28 27 L 28 26 L 26 26 L 26 25 L 28 25 L 28 24 L 29 24 L 28.84375 19 L 27 19 L 27 21 L 26 21 L 26 19 L 27 19 L 27 17 L 28 17 L 28 14 L 25 14 L 25 18 L 23 18 L 23 14 L 20 14 z M 23 27 L 27 27 L 27 28 L 28 28 L 28 29 L 22 29 L 22 28 L 23 28 L 23 27 z M 22 30 L 24 30 L 24 32 L 22 32 L 22 30 z M 26 30 L 28 30 L 28 32 L 26 32 L 26 30 z " transform="scale(0.28222223,0.28222223)" fill="#99ccff"/>
 </svg>
