@@ -72,7 +72,7 @@
   </linearGradient>
   <linearGradient xlink:href="#C" id="D" y1="3" x2="0" y2="45" gradientUnits="userSpaceOnUse"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
  <path d="M 24 3 C 12.367309 3 3 12.367309 3 24 L 45 24 C 45 12.367309 35.632691 3 24 3 z M 3.21875 27 C 3.4141175 28.381517 3.7385633 29.720007 4.1875 31 L 43.8125 31 C 44.261437 29.720007 44.585882 28.381517 44.78125 27 L 3.21875 27 z M 5.53125 34 C 6.3134866 35.448183 7.2560556 36.783601 8.34375 38 L 39.65625 38 C 40.743944 36.783601 41.686513 35.448183 42.46875 34 L 5.53125 34 z M 11.65625 41 C 15.118748 43.5159 19.373768 45 24 45 C 28.626232 45 32.881252 43.5159 36.34375 41 L 11.65625 41 z " transform="scale(0.28222223,0.28222223)" fill="url(#D)" fill-rule="evenodd"/>
 </svg>
