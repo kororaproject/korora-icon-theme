@@ -92,7 +92,7 @@
   </clipPath>
   <rect id="6" width="11.01" x="1.27" y="1.27" rx="5.503" height="11.01" stroke-width="0.847" stroke="#f9f9f9" fill="none"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
  <rect height="11.571" rx="5.785" y="0.988" x="0.988" width="11.571" fill="url(#1)" fill-rule="evenodd"/>
  <path d="m 3.9953584,11.264629 0,-3.4164084 c 0,-1.6040367 1.290946,-2.8938806 2.894983,-2.8938806 1.605139,0 2.896085,1.2898439 2.896085,2.8938806 l 0,3.2947254" fill="none" stroke="#f9f9f9" stroke-linecap="round" stroke-width="1.129"/>
  <use xlink:href="#6"/>
