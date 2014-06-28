@@ -91,8 +91,8 @@
   <linearGradient gradientTransform="matrix(.175 0 0 .175 302.79999 215.99997)" id="4" xlink:href="#2" y1="280" y2="40" x2="0" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#0" id="5" y1="12.7" x2="0" y2="0.847" gradientUnits="userSpaceOnUse"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.746" rx="5.873" y="0.9" x="0.9" width="11.746" fill="url(#5)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.746" rx="0.5" y="0.9" x="0.9" width="11.746" fill="url(#5)" fill-rule="evenodd"/>
  <rect ry="0.548" rx="0.46" y="2.806" x="4.18" height="6.491" width="6.491" transform="matrix(0.99484876,0.10137033,-0.10137033,0.99484876,0,0)" fill="#269542" stroke="#269542" stroke-width="0.282"/>
  <rect ry="0.548" rx="0.46" y="-10.725" x="-9.229" height="6.491" width="6.491" transform="matrix(-0.99388429,0.11042648,-0.11042648,-0.99388429,0,0)" fill="#d2c839" stroke="#d2c839" stroke-width="0.282"/>
  <path d="m 13,13 22,0 0,22 -22,0 z" transform="scale(0.28222223,0.28222223)" fill="#3ecdf6"/>
