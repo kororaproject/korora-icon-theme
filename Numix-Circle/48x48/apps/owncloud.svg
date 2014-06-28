@@ -46,8 +46,8 @@
   </linearGradient>
   <linearGradient xlink:href="#0" id="B" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-295.76183)" y1="279.1" x2="0" y2="268.33"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#B)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#B)" fill-rule="evenodd"/>
  <g transform="matrix(0.28222223,0,0,0.28222223,22.03218,-33.107606)">
   <g transform="matrix(0.68997378,0,0,0.67552694,-70.627377,125.09728)" fill="#1c2d44" stroke="#f9f9f9">
    <path transform="matrix(0.14111,0,0,0.14111,-24.94227,7.7667)" d="m 308.81317,78.917457 c 0,11.21173 -9.08012,20.319531 -20.31953,20.319531 -11.23941,0 -20.31953,-9.107801 -20.31953,-20.319531 0,-11.239414 9.08012,-20.347215 20.31953,-20.347215 11.23941,0 20.31953,9.107801 20.31953,20.347215 z"/>
