@@ -73,8 +73,8 @@
    <stop offset="1" stop-color="#ffffff"/>
   </linearGradient>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#A)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#A)" fill-rule="evenodd"/>
  <g transform="matrix(0.28222223,0,0,0.28222223,7.6452391,-42.355132)">
   <g transform="translate(34.584131,62.904608)">
    <rect width="2" height="24" x="-49.674" y="99.17" fill="#e1801a"/>
