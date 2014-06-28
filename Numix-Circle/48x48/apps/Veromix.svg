@@ -10,8 +10,8 @@
   </clipPath>
  </defs>
  <g fill-rule="evenodd">
-  <rect width="12.982" x="0.282" y="0.282" rx="6.491" height="12.982" opacity="0.5" fill="#fff"/>
-  <rect width="11.853" x="0.847" y="0.847" rx="5.926" height="11.853" fill="url(#1)"/>
+  <rect width="12.982" x="0.282" y="0.282" rx="0.5" height="12.982" opacity="0.5" fill="#fff"/>
+  <rect width="11.853" x="0.847" y="0.847" rx="0.5" height="11.853" fill="url(#1)"/>
  </g>
  <rect width="30" height="2" x="9" y="17" transform="scale(0.28222223,0.28222223)" rx="0" fill="#2d2d2d"/>
  <rect width="30" height="2" x="9" y="30" transform="scale(0.28222223,0.28222223)" rx="0" fill="#2d2d2d"/>
