@@ -1278,7 +1278,7 @@
   </defs>
   <rect
      height="12.982"
-     rx="6.4910002"
+     rx="0.5"
      y="0.28244442"
      x="0.28222224"
      width="12.982"
@@ -1286,7 +1286,7 @@
      style="opacity:0.5;fill:#ffffff;fill-rule:evenodd" />
   <rect
      height="11.853"
-     rx="5.927"
+     rx="0.5"
      y="-12.700222"
      x="0.84644508"
      width="11.853"
