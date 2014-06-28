@@ -357,8 +357,8 @@
   </clipPath>
   <path id="15" d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" color="#000000"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect transform="scale(1,-1)" height="11.853" rx="5.926" y="-12.7" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect transform="scale(1,-1)" height="11.853" rx="0.5" y="-12.7" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
  <path d="m 4.5155557,5.6444446 -1.128889,3.9511112 6.7733343,0 -1.1288897,-3.9511112 -1.1288889,0 0,0.2822222 0,1.6933334 -2.2577778,0 0,-1.9755556 z" fill="#f9f9f9"/>
  <rect width="3.951" height="0.847" x="4.798" y="3.387" rx="0.5" ry="0.423" fill="#f9f9f9"/>
  <rect rx="0.5" y="6.209" x="-7.338" height="1.129" width="3.951" transform="matrix(0,-1,1,0,0,0)" fill="#f9f9f9"/>
