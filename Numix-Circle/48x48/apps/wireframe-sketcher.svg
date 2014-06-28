@@ -7,8 +7,8 @@
   <linearGradient xlink:href="#0" id="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.0952381,0,0,1.0952381,-133.00183,-9.5686658)" y1="279.1" x2="0" y2="268.33"/>
  </defs>
  <g transform="translate(-1.8188194e-7,-283.45331)">
-  <rect width="12.982" height="12.982" x="0.282" y="283.74" opacity="0.5" fill="#ffffff" fill-rule="evenodd" rx="6.491"/>
-  <rect y="284.35" x="0.9" height="11.746" width="11.746" fill="url(#1)" fill-rule="evenodd" rx="5.873"/>
+  <rect width="12.982" height="12.982" x="0.282" y="283.74" opacity="0.5" fill="#ffffff" fill-rule="evenodd" rx="0.5"/>
+  <rect y="284.35" x="0.9" height="11.746" width="11.746" fill="url(#1)" fill-rule="evenodd" rx="0.5"/>
   <path d="m 8.8360882,287.30233 c 0.5396226,0.41857 0.834826,0.97154 0.742826,1.3357 l -2.2017053,-1.70781 c -0.00668,-0.005 -0.013636,-0.01 -0.020527,-0.0147 0.3296505,-0.18044 0.9392896,-0.0322 1.4794115,0.38681 z" fill="#cc3d3d" fill-rule="evenodd"/>
   <rect rx="0.348" y="222.34" x="-184.51" height="4.465" width="0.873" transform="matrix(-0.79015591,-0.6129059,-0.61293351,0.79013449,0,0)" fill="#007ac1" fill-rule="evenodd"/>
   <rect width="0.873" height="4.465" x="-183.52" y="222.34" rx="0.348" transform="matrix(-0.79015591,-0.6129059,-0.61293351,0.79013449,0,0)" fill="#007ac1" fill-rule="evenodd"/>
