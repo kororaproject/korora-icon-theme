@@ -13,7 +13,7 @@
 </defs>
 <g style="fill-rule:evenodd">
 <g>
-<rect width="12.982" x=".282" y=".282" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
+<rect width="12.982" x=".282" y=".282" rx="0.5" height="12.982" style="opacity:.5;fill:#fff"/>
 <path style="fill:url(#linearGradient3938)" d="M 24 3 C 17.288077 3 11.339179 6.1282175 7.5 11 L 40.5 11 C 36.660821 6.1282175 30.711923 3 24 3 z " transform="scale(.28222)"/>
 <path style="fill:url(#linearGradient3962)" d="M 7.5 11 C 4.6857478 14.571247 3 19.07972 3 24 C 3 35.634 12.366 45 24 45 C 35.634 45 45 35.634 45 24 C 45 19.07972 43.314252 14.571247 40.5 11 L 7.5 11 z " transform="scale(.28222)"/>
 </g>
