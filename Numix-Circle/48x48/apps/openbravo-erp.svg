@@ -46,8 +46,8 @@
   </linearGradient>
   <linearGradient xlink:href="#0" id="B" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-295.76183)" y1="279.1" x2="0" y2="268.33"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#B)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#B)" fill-rule="evenodd"/>
  <g transform="matrix(0.28222223,0,0,0.28222223,22.03218,-33.107606)">
   <path d="M 17.003906,4.1757813 C 15.216855,4.8037518 13.525756,5.6798464 12,6.7421875 L 12,24 c 0,6.627417 5.372583,12 12,12 6.627417,0 12,-5.372583 12,-12 0,-6.627417 -5.372583,-12 -12,-12 l 0,5 c 3.865993,0 7,3.134007 7,7 0,3.865993 -3.134007,7 -7,7 -3.865993,0 -7.000762,-3.134007 -7,-7 z" transform="translate(-78.066777,117.31041)" fill="#dff5e4"/>
  </g>
