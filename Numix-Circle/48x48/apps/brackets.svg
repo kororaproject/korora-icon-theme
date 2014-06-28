@@ -6,8 +6,8 @@
 </linearGradient>
 <linearGradient gradientTransform="translate(0 -13.547)" xlink:href="#linearGradient3765" id="linearGradient3771" x1=".847" x2="12.7" gradientUnits="userSpaceOnUse"/>
 </defs>
-<rect width="12.982" x=".282" y=".282" rx="6.491" height="12.982" style="opacity:.5;fill:#fff;fill-rule:evenodd"/>
-<rect width="11.853" x=".847" y="-12.7" rx="5.926" height="11.853" style="fill:url(#linearGradient3771)" transform="rotate(90)"/>
+<rect width="12.982" x=".282" y=".282" rx="0.5" height="12.982" style="opacity:.5;fill:#fff;fill-rule:evenodd"/>
+<rect width="11.853" x=".847" y="-12.7" rx="0.5" height="11.853" style="fill:url(#linearGradient3771)" transform="rotate(90)"/>
 <rect width="8.467" x="2.54" y="2.54" rx="4.233" height="8.467" style="fill:#f9f9f9;fill-rule:evenodd"/>
 <g style="fill:#555" transform="matrix(.66667 0 0 .66667 2.25778 2.25778)">
 <path d="m 2.5400001,3.3866665 0,6.7733335 3.3866664,0 0,-1.2700001 -2.1166665,0 0,-4.2333334 2.1166665,0 0,-1.27 z"/>
