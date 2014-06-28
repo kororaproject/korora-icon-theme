@@ -64,7 +64,7 @@
    <stop offset="1" stop-color="#46bc6c"/>
   </linearGradient>
  </defs>
- <rect height="12.982" rx="6.491" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
  <path d="m 5.9266668,3.9511112 1.6933334,0 0,3.668889 1.4111111,0 -2.2577778,1.9755556 -2.2577778,-1.9755556 1.4111111,0 z" fill="#c5f7f7"/>
 </svg>
