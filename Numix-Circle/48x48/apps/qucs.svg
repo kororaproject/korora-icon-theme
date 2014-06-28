@@ -9,8 +9,8 @@
    <rect width="25.896" height="19.848" x="-21.268" y="-2.811" rx="1.832" opacity="0.513" fill="#009900"/>
   </clipPath>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
  <path d="M 15,34 34.576271,14 37,16.423729 19.601695,34 z" transform="scale(0.28222223,0.28222223)" opacity="0.913" fill="#f9f9f9"/>
  <path d="M 22,34 33.61017,22 36,24.584746 26.415254,34 z" transform="scale(0.28222223,0.28222223)" opacity="0.913" fill="#f9f9f9"/>
  <path d="M 29,34 34.474576,28.652542 36.61017,31 33.686441,34 z" transform="scale(0.28222223,0.28222223)" opacity="0.913" fill="#f9f9f9"/>
