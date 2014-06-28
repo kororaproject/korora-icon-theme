@@ -6,8 +6,8 @@
   </linearGradient>
   <linearGradient xlink:href="#0" id="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.10528,0,0,1.10528,-134.28255,-295.77052)" y1="279.1" x2="0" y2="268.33"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
  <path d="m 8.1187419,6.5480116 c 0.160617,-0.260968 0.2549556,-0.5680433 0.2549556,-0.8979619 0,-0.3353133 -0.09692,-0.6468564 -0.2620332,-0.910353" fill="none" stroke="#f9f9f9" stroke-linecap="round" stroke-width="0.419"/>
  <path d="m 8.6977625,4.1462814 c 0.3076621,0.4202797 0.4899279,0.9404452 0.4899279,1.5037683 0,0.5580969 -0.1791018,1.0737109 -0.4819344,1.4918829" fill="none" stroke="#f9f9f9" stroke-linecap="round" stroke-width="0.419"/>
  <path d="m 9.2496391,7.6927806 c 0.4385537,-0.56189 0.7009201,-1.271123 0.7009201,-2.0426467 0,-0.7769187 -0.2657802,-1.4904501 -0.7093298,-2.054026" fill="none" stroke="#f9f9f9" stroke-linecap="round" stroke-width="0.419"/>
