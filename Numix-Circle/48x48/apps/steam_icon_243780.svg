@@ -151,8 +151,8 @@
   </linearGradient>
   <linearGradient xlink:href="#4" id="5" gradientUnits="userSpaceOnUse" gradientTransform="translate(-13.53783,-0.01017)" x1="0.838" x2="12.691"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" color="#bebebe" stroke-width="0.184"/>
- <rect transform="matrix(0,-1,1,0,0,0)" height="11.853" rx="5.926" y="0.847" x="-12.7" width="11.853" fill="url(#5)" color="#bebebe" stroke-width="0.184"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" color="#bebebe" stroke-width="0.184"/>
+ <rect transform="matrix(0,-1,1,0,0,0)" height="11.853" rx="0.5" y="0.847" x="-12.7" width="11.853" fill="url(#5)" color="#bebebe" stroke-width="0.184"/>
  <rect height="5.644" y="4.798" x="4.798" width="3.951" fill="#ba3a3a"/>
  <rect height="4.234" y="3.104" x="3.951" width="1.411" fill="#ba3a3a"/>
  <rect height="4.234" y="3.104" x="6.209" width="1.129" fill="#ba3a3a"/>
