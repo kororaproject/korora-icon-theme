@@ -151,8 +151,8 @@
   </linearGradient>
   <linearGradient xlink:href="#4" id="5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-295.76115)" y1="279.09" x2="0" y2="268.36"/>
  </defs>
- <rect width="12.982" x="0.273" y="0.293" rx="6.491" height="12.982" opacity="0.5" fill="#fff" color="#bebebe" stroke-width="0.184"/>
- <rect height="11.853" rx="5.926" y="0.857" x="0.838" width="11.853" fill="url(#5)" fill-rule="evenodd" color="#000000"/>
+ <rect width="12.982" x="0.273" y="0.293" rx="0.5" height="12.982" opacity="0.5" fill="#fff" color="#bebebe" stroke-width="0.184"/>
+ <rect height="11.853" rx="0.5" y="0.857" x="0.838" width="11.853" fill="url(#5)" fill-rule="evenodd" color="#000000"/>
  <image y="-4.917" x="31.07" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzsvXmYJNdVJ/q7sWVmRO6VWfte3dWrWi21Vtq2Fku2DDa2xx/YYnk22MYDY8wMy2MYHjMNwzB8
 7I83MJ81YBiDHyC/GfAqMF5kbMm2UFvdLfVe3VXVtWblvkbGet8fUed2VKmXUi+SgT5fx1fVUVWR
