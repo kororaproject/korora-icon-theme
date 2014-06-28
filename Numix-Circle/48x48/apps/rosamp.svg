@@ -30,8 +30,8 @@
   </clipPath>
   <linearGradient xlink:href="#0" id="1" y1="12.7" x2="0" y2="3.669" gradientUnits="userSpaceOnUse"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.927" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
  <path d="m 5.3622224,4.7977786 0,5.6444444 4.2333344,-2.8222221 z" fill="#f9f9f9"/>
  <g transform="matrix(1.0185757,0,0,1.0191163,-0.12127324,-0.0701351)" fill-rule="evenodd">
   <path d="m 24,3.1875 c -7.482835,0 -13.935217,3.915868 -17.6011042,9.812601 L 41.547662,13 C 37.881164,7.1061758 31.48063,3.1875 24,3.1875 z" transform="scale(0.28222,0.28222)" fill="#2d2d2d"/>
