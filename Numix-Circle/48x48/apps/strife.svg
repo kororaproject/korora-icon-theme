@@ -6,8 +6,8 @@
   </linearGradient>
   <linearGradient xlink:href="#0" id="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.10526,0,0,1.10526,-134.28025,-295.76491)" y1="279.1" x2="0" y2="268.33"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
  <path d="m -6.8062477,21.285477 a 6.3808575,6.7211699 0 1 1 -12.7617153,0 6.3808575,6.7211699 0 1 1 12.7617153,0 z" transform="matrix(0.66344272,0,0,0.62985068,15.522222,-6.6333385)" fill="#2d2d2d"/>
  <path d="m 15.320313,11.765625 c -1.684011,1.196513 -3.110439,2.732912 -4.179688,4.507813 L 18,18 z" transform="scale(0.28222223,0.28222223)" fill="#55cdef"/>
  <path d="M 32.269531,11.488281 30.5,18.5 36.613281,15.875 c -1.126625,-1.741026 -2.615334,-3.242423 -4.34375,-4.386719 z" transform="scale(0.28222223,0.28222223)" fill="#55cdef"/>
