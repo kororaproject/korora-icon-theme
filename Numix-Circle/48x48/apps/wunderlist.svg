@@ -130,8 +130,8 @@
 <linearGradient xlink:href="#linearGradient4147" id="linearGradient4156" y1="10.16" y2="1.129" x2="0" gradientUnits="userSpaceOnUse"/>
 </defs>
 <g style="fill-rule:evenodd">
-<rect width="12.982" x=".282" y=".282" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
-<rect width="11.746" x=".9" y=".9" rx="5.873" height="11.746" style="fill:url(#linearGradient3033)"/>
+<rect width="12.982" x=".282" y=".282" rx="0.5" height="12.982" style="opacity:.5;fill:#fff"/>
+<rect width="11.746" x=".9" y=".9" rx="0.5" height="11.746" style="fill:url(#linearGradient3033)"/>
 </g>
 <rect width="11.266" x="1.141" y="1.14" rx="5.633" height="11.266" style="fill:none;stroke:#fa4120;stroke-width:.587"/>
 <path style="fill:url(#linearGradient4156)" d="m 4.5155557,1.5787425 0,8.4666675 0.01536,0 1.12121,-1.1022515 1.121208,-1.102252 1.121209,1.102252 1.121207,1.1022515 0.01536,0 0,-8.4666675 -4.515552,0 z m 2.265454,2.252726 0.499167,1.295147 1.535903,0.04822 -1.228721,0.826688 0.430054,1.315812 -1.25944,-0.785355 -1.267121,0.771576 0.453092,-1.315813 -1.213361,-0.840464 1.5359,-0.02756 0.514527,-1.288257 z"/>
