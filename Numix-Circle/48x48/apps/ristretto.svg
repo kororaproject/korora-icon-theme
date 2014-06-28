@@ -91,8 +91,8 @@
   <linearGradient gradientTransform="matrix(.175 0 0 .175 302.79999 215.99997)" id="4" xlink:href="#2" y1="280" y2="40" x2="0" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#0" id="5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.09524,0,0,1.09524,-133.0015,-293.02234)" y1="279.1" x2="0" y2="268.33"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.746" rx="5.873" y="0.9" x="0.9" width="11.746" fill="url(#5)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.746" rx="0.5" y="0.9" x="0.9" width="11.746" fill="url(#5)" fill-rule="evenodd"/>
  <path d="m -4.2678523,25.759748 a 6.6863017,8.0140781 0 1 1 -13.3726037,0 6.6863017,8.0140781 0 1 1 13.3726037,0 z" transform="matrix(0.10552255,0,0,0.08803952,9.1992438,2.6710131)" fill="#f0b14e"/>
  <path d="M 24,27.5 28,22 33.1,31 27,32 z" transform="scale(0.28222223,0.28222223)" fill="#242c3c"/>
  <path d="m 15,31 6,-11 6,11 -6,1 z" transform="scale(0.28222223,0.28222223)" fill="#3c424e"/>
