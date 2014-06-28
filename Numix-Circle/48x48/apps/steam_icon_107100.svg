@@ -186,8 +186,8 @@
   <radialGradient cx="328" cy="255.42" gradientTransform="matrix(1.22449 0 0 1.22449 49.7555 -179.34296)" xlink:href="#4" r="7" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#6" id="D" gradientUnits="userSpaceOnUse" gradientTransform="translate(-13.53783,-0.01017)" x1="0.838" x2="12.691"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" color="#bebebe" stroke-width="0.184"/>
- <rect transform="matrix(0,-1,1,0,0,0)" height="11.853" rx="5.926" y="0.847" x="-12.7" width="11.853" fill="url(#D)" color="#bebebe" stroke-width="0.184"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" color="#bebebe" stroke-width="0.184"/>
+ <rect transform="matrix(0,-1,1,0,0,0)" height="11.853" rx="0.5" y="0.847" x="-12.7" width="11.853" fill="url(#D)" color="#bebebe" stroke-width="0.184"/>
  <path d="m 6,28 a 12,12 0 1 1 -24,0 12,12 0 1 1 24,0 z" transform="matrix(0.28222223,0,0,0.28222223,8.4666669,-1.128889)" fill="#267fc1"/>
  <path transform="matrix(0.21166667,0,0,0.21166667,7.4083335,0.2822223)" d="m 6,28 a 12,12 0 1 1 -24,0 12,12 0 1 1 24,0 z" fill="#222222"/>
  <path d="M 28.305297,13 30.700388,10.323256 35.604909,15 33,17 z" transform="scale(0.28222223,0.28222223)" fill="#267fc1"/>
