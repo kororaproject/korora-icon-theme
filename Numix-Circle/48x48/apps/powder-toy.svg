@@ -187,8 +187,8 @@
   <linearGradient y2="268.33" x2="0" y1="279.1" gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-295.76183)" gradientUnits="userSpaceOnUse" id="D" xlink:href="#C"/>
  </defs>
  <g transform="translate(2.2222392e-4,4.4441464e-4)" fill-rule="evenodd">
-  <rect width="12.982" x="0.282" y="0.282" rx="6.491" height="12.982" opacity="0.5" fill="#ffffff"/>
-  <rect width="11.853" x="0.847" y="0.847" rx="5.926" height="11.853" fill="url(#D)"/>
+  <rect width="12.982" x="0.282" y="0.282" rx="0.5" height="12.982" opacity="0.5" fill="#ffffff"/>
+  <rect width="11.853" x="0.847" y="0.847" rx="0.5" height="11.853" fill="url(#D)"/>
  </g>
  <path d="M 18 24 C 14.686291 24 12 26.686291 12 30 C 12 33.313709 14.686291 36 18 36 C 21.313709 36 24 33.313709 24 30 L 18 30 L 18 24 z " transform="scale(0.28222223,0.28222223)" fill="#2d2d2d"/>
  <rect width="0.282" height="0.282" x="7.06" y="8.184" fill="#2d2d2d"/>
