@@ -12,7 +12,7 @@
   </linearGradient>
   <linearGradient y2="268.33" x2="0" y1="279.1" gradientTransform="matrix(1.10525,0,0,1.10525,-134.27907,-295.76182)" gradientUnits="userSpaceOnUse" id="3" xlink:href="#2"/>
  </defs>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#3)" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#3)" fill-rule="evenodd"/>
  <path d="m 328,256 -17,11 0,-31 37,0 0,20 z" transform="matrix(.30238 0 0 .30238 -92.4075 -70.63642)" clip-path="url(#1)" fill="#e38c54"/>
  <path d="m 311,272 0,-5 17,-11 8,14 0,2 z" transform="matrix(.30238 0 0 .30238 -92.4075 -70.63642)" clip-path="url(#1)" fill="#a8cf36"/>
  <rect width="20" x="328" y="-268" rx="0" height="17" transform="matrix(.30238 0 0 -.30238 -92.4075 -69.42691)" clip-path="url(#0)" fill="#59a5c8" color="#000"/>
