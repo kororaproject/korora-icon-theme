@@ -9,8 +9,8 @@
   <path id="3" d="m -22,15 0,10 -1,-10 z"/>
   <path id="4" d="m -6.208889,4.2333334 0,-2.8222224 0.2822222,2.8222224 z"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
  <g transform="matrix(1.25,0,0,1.25,-1.6933748,-1.6933749)">
   <use transform="matrix(0.16366083,0,0,0.16366083,13.156272,6.2825174)" fill="#333333" xlink:href="#2"/>
   <use transform="matrix(0.13638402,0,0,0.13638402,12.092477,6.3643478)" fill="#46a426" xlink:href="#2"/>
