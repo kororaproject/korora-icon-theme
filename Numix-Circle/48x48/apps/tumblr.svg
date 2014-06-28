@@ -186,7 +186,7 @@
   <radialGradient cx="328" cy="255.42" gradientTransform="matrix(1.22449 0 0 1.22449 49.7555 -179.34296)" r="7" xlink:href="#0" gradientUnits="userSpaceOnUse"/>
   <radialGradient cx="328" cy="255.42" gradientTransform="matrix(1.22449 0 0 1.22449 49.7555 -179.34296)" r="7" xlink:href="#0" gradientUnits="userSpaceOnUse"/>
  </defs>
- <rect width="12.982" x="0.282" y="0.282" rx="6.491" height="12.982" opacity="0.5" fill="#fff" color="#bebebe" stroke-width="0.184"/>
- <rect width="11.853" x="0.847" y="0.847" rx="5.926" height="11.853" fill="url(#5)" fill-rule="evenodd" color="#000"/>
+ <rect width="12.982" x="0.282" y="0.282" rx="0.5" height="12.982" opacity="0.5" fill="#fff" color="#bebebe" stroke-width="0.184"/>
+ <rect width="11.853" x="0.847" y="0.847" rx="0.5" height="11.853" fill="url(#5)" fill-rule="evenodd" color="#000"/>
  <path d="M 4.5155557,4.7977779 C 5.3967417,4.7402479 6.266971,4.6012355 6.208889,3.1044445 l 0.8466667,0 0,1.6933334 1.9755556,0 0,1.4111111 -1.9755556,0 0,2.1021138 c 0.239832,1.368347 1.477261,0.8830157 1.975555,0.3993217 l 0,1.162195 C 8.6438857,10.17968 7.6809867,10.411144 7.0555557,10.442222 5.9797417,10.326709 5.1340541,9.8614376 5.0800001,8.1844446 l 0,-1.9755556 -0.5644444,0 z" fill="#f1f3f7"/>
 </svg>
