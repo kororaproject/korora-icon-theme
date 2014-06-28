@@ -64,8 +64,8 @@
    <stop offset="1" stop-color="#46bc6c"/>
   </linearGradient>
  </defs>
- <rect height="12.982" rx="6.491" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
  <path d="m 7.1161583,4.8471495 c 0.6265527,0.6265527 0.6265527,1.6423954 0,2.2689482 -0.6265528,0.6265527 -1.6423955,0.6265527 -2.2689483,0 -0.6265527,-0.6265528 -0.6265527,-1.6423955 0,-2.2689482 0.6265528,-0.6265528 1.6423955,-0.6265528 2.2689483,0 z" fill="none" stroke="#f9f9f9" stroke-width="0.288"/>
  <rect height="1.308" rx="0" y="11.566" x="-0.296" width="0.592" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" fill="#f9f9f9"/>
  <rect height="1.308" rx="0" y="10.222" x="-0.208" width="0.416" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" fill="#f9f9f9"/>
