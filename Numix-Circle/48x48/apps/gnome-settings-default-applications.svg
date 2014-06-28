@@ -63,8 +63,8 @@
   <rect id="C" width="0.535" x="6.506" y="9.61" rx="0" height="0.535" stroke-width="0.594" stroke-miterlimit="5.8"/>
   <rect id="D" width="0.535" x="6.506" y="3.401" rx="0" height="0.535" stroke-width="0.594" stroke-miterlimit="5.8"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
  <g transform="translate(5.9372097e-6,1.223704e-7)">
   <path transform="matrix(0.21409962,0,0,0.21409961,1.956092,1.5278932)" d="M 35,24.5 C 35,31.403559 29.403559,37 22.5,37 15.596441,37 10,31.403559 10,24.5 10,17.596441 15.596441,12 22.5,12 29.403559,12 35,17.596441 35,24.5 z" fill="none" stroke="#f9f9f9" stroke-linejoin="round" stroke-width="4" stroke-miterlimit="5.8"/>
   <g transform="matrix(2.4892273e-5,1,-1,2.4892273e-5,13.546499,-1.6880053e-4)" fill="none" stroke="#f9f9f9">
