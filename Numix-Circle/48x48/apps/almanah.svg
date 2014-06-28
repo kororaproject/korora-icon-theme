@@ -189,8 +189,8 @@
    <stop offset="1" stop-color="#424242"/>
   </linearGradient>
  </defs>
- <rect width="12.982" x="0.282" y="0.282" rx="6.491" height="12.982" opacity="0.5" fill="#fff" color="#bebebe" stroke-width="0.184"/>
- <rect width="11.853" x="0.847" y="0.847" rx="5.926" height="11.853" fill="url(#3)" fill-rule="evenodd" color="#000"/>
+ <rect width="12.982" x="0.282" y="0.282" rx="0.5" height="12.982" opacity="0.5" fill="#fff" color="#bebebe" stroke-width="0.184"/>
+ <rect width="11.853" x="0.847" y="0.847" rx="0.5" height="11.853" fill="url(#3)" fill-rule="evenodd" color="#000"/>
  <path d="m 3.3866668,3.3866668 c 0,2.2785982 0,4.7686057 -10e-8,6.7733332 l 6.7733333,0 c 0,-6.7733333 0,-4.0218246 0,-6.7733332 z" fill="#cc0000" fill-rule="evenodd"/>
  <path d="m 3.6688891,8.7488891 c 0,0.3797663 0,0.7947677 -10e-8,1.1288889 l 6.208889,0 c 0,-1.1288889 0,-0.6703042 0,-1.1288889 z" fill="#f9f9f9" fill-rule="evenodd"/>
  <path d="m 3.3866669,3.3866668 c 0,1.7089488 0,3.5764546 -10e-8,5.0800001 l 6.7733342,0 c 0,-5.0800002 0,-3.0163685 0,-5.0800001 z" fill="#aa0000" fill-rule="evenodd"/>
