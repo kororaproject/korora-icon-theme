@@ -337,7 +337,7 @@
   </defs>
   <rect
      height="12.982"
-     rx="6.491"
+     rx="0.5"
      y="0.282"
      x="0.282"
      width="12.982"
@@ -348,7 +348,7 @@
   <rect
      style="fill:url(#linearGradient3813);fill-opacity:1;fill-rule:evenodd"
      height="11.853"
-     rx="5.9259996"
+     rx="0.5"
      y="0.84666634"
      x="-12.700001"
      width="11.853"
