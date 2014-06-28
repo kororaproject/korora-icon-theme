@@ -187,8 +187,8 @@
   <linearGradient xlink:href="#4" id="D" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-295.76115)" y1="279.09" x2="0" y2="268.36"/>
   <path id="E" d="m 18.101696,10.271187 a 5.7966104,5.7966104 0 1 1 -11.5932212,0 5.7966104,5.7966104 0 1 1 11.5932212,0 z"/>
  </defs>
- <rect width="12.982" x="0.273" y="0.293" rx="6.491" height="12.982" opacity="0.5" fill="#fff" color="#bebebe" stroke-width="0.184"/>
- <rect height="11.853" rx="5.926" y="0.857" x="0.838" width="11.853" fill="url(#D)" fill-rule="evenodd" color="#000000"/>
+ <rect width="12.982" x="0.273" y="0.293" rx="0.5" height="12.982" opacity="0.5" fill="#fff" color="#bebebe" stroke-width="0.184"/>
+ <rect height="11.853" rx="0.5" y="0.857" x="0.838" width="11.853" fill="url(#D)" fill-rule="evenodd" color="#000000"/>
  <use transform="matrix(0.16323619,0.26817775,-0.26817775,0.16323619,9.085752,1.1170488)" fill="#87dd95" xlink:href="#E"/>
  <use transform="matrix(-0.22199702,0.22199702,-0.22199702,-0.22199702,13.084057,7.8751556)" fill="#f3f275" xlink:href="#E"/>
  <use transform="matrix(-0.22199702,-0.22199702,0.22199702,-0.22199702,5.9500506,13.338539)" fill="#f0ba68" xlink:href="#E"/>
