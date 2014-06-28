@@ -6,8 +6,8 @@
    <stop offset="1" stop-color="#3c5e82"/>
   </linearGradient>
  </defs>
- <rect height="12.982" rx="6.491" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.746" rx="5.873" y="0.901" x="0.9" width="11.746" fill="url(#0)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.746" rx="0.5" y="0.901" x="0.9" width="11.746" fill="url(#0)" fill-rule="evenodd"/>
  <g transform="translate(0 -283.45331)"/>
  <path d="m 3.8883951,9.5955558 5.7698764,0 c 0.5017285,0 0.5017285,0 0.5017285,-0.4838097 l 0,-4.1123807 -3.3866665,-2.1771429 -3.3866667,2.1771429 0,4.1123807 c 0,0.4838097 0,0.4838097 0.5017283,0.4838097 z" fill="#3173aa"/>
  <path d="m 3.9511112,3.386667 0,5.6444446 5.6444446,0 0,-5.6444446 z" fill="#f9f9f9"/>
