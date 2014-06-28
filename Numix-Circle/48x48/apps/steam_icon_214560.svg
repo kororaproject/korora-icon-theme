@@ -95,7 +95,7 @@
   </linearGradient>
   <linearGradient xlink:href="#1" id="9" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.10525,0,0,1.10525,-134.27888,-295.76214)" y1="279.1" x2="0" y2="268.33"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#9)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#9)" fill-rule="evenodd"/>
  <path d="M 5.7049993,8.6875087 3.6794069,10.15787 C 3.35504,10.202286 3.3115577,9.5389172 3.4930895,9.4113522 L 5.170583,8.2939852 5.15154,7.945869 5.48724,8.0748471 c 1.1924778,-0.9238103 3.1306003,-2.8956476 4.526072,-4.675959 0.05542,-0.082564 0.173142,0.2758457 0.14132,0.3964497 C 8.7194591,5.6545045 7.467529,6.9097941 5.9145026,8.5020044 l 0.1258143,0.3204319 z" fill="#f9f9f9"/>
 </svg>
