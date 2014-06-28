@@ -18,10 +18,10 @@
 <g style="fill-rule:evenodd">
 <g style="fill:#fff" transform="translate(0 -283.45331)">
 <rect width="9.273" x="2.137" y="285.59" rx="4.636" height="9.273" style="opacity:.5"/>
-<rect width="12.982" x=".282" y="283.736" rx="6.491" height="12.982" style="opacity:.5"/>
+<rect width="12.982" x=".282" y="283.736" rx="0.5" height="12.982" style="opacity:.5"/>
 </g>
 <g transform="matrix(1.00914 0 0 1.00914 -.06156 -286.10574)">
-<rect width="11.746" x=".9" y="284.354" rx="5.873" height="11.746" style="fill:url(#linearGradient4500)"/>
+<rect width="11.746" x=".9" y="284.354" rx="0.5" height="11.746" style="fill:url(#linearGradient4500)"/>
 </g>
 </g>
 <g transform="matrix(.00436 0 0 -.00448 -4.6536 22.75211)">
