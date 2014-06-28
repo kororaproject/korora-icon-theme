@@ -87,8 +87,8 @@
   <linearGradient gradientTransform="matrix(.175 0 0 .175 302.79999 215.99997)" id="3" xlink:href="#1" y1="280" y2="40" x2="0" gradientUnits="userSpaceOnUse"/>
   <path id="4" d="m 15,23 a 3,3 0 1 1 -0.0024,-0.120273" fill="#8b1c2a"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" color="#bebebe" stroke-width="0.184"/>
- <rect transform="matrix(0,-1,1,0,0,0)" height="11.853" rx="5.926" y="0.847" x="-12.7" width="11.853" fill="#93c849" color="#bebebe" stroke-width="0.184"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" color="#bebebe" stroke-width="0.184"/>
+ <rect transform="matrix(0,-1,1,0,0,0)" height="11.853" rx="0.5" y="0.847" x="-12.7" width="11.853" fill="#93c849" color="#bebebe" stroke-width="0.184"/>
  <path d="m 3.1044445,7.3377784 -0.2822222,-3.1044445 0.2822222,0 0.5644445,3.1044445 z" fill="#ab9eaa"/>
  <use transform="matrix(0.28222223,0,0,0.28222223,0.28222219,0.84666711)" xlink:href="#4"/>
  <path d="m 10.442219,7.3377784 0.28222,-3.1044446 -0.28222,0 -0.564441,3.1044446 z" fill="#ab9eaa"/>
