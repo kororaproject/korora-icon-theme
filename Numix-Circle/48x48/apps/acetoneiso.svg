@@ -8,8 +8,8 @@
   <path id="2" d="m -15,19.5 a 5,4.5 0 1 1 -10,0 5,4.5 0 1 1 10,0 z"/>
  </defs>
  <g fill-rule="evenodd">
-  <rect width="12.982" x="0.282" y="0.282" rx="6.491" height="12.982" opacity="0.5" fill="#fff"/>
-  <rect width="11.853" x="0.847" y="0.847" rx="5.926" height="11.853" fill="url(#1)"/>
+  <rect width="12.982" x="0.282" y="0.282" rx="0.5" height="12.982" opacity="0.5" fill="#fff"/>
+  <rect width="11.853" x="0.847" y="0.847" rx="0.5" height="11.853" fill="url(#1)"/>
  </g>
  <use transform="matrix(0.22577778,0,0,0.2508642,9.8774446,4.1387595)" fill="#cccccc" xlink:href="#2"/>
  <use transform="matrix(0.33866667,0,0,0.37629631,12.135223,0.28172219)" fill="#333333" xlink:href="#2"/>
