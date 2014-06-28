@@ -22,8 +22,8 @@
 <linearGradient xlink:href="#linearGradient3872" id="linearGradient3956" x1="21.358" gradientUnits="userSpaceOnUse" x2="25.532"/>
 </defs>
 <g style="fill-rule:evenodd">
-<rect width="12.982" x=".282" y=".283" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
-<rect width="11.853" x=".847" y=".847" rx="5.927" height="11.853" style="fill:url(#linearGradient3031)"/>
+<rect width="12.982" x=".282" y=".283" rx="0.5" height="12.982" style="opacity:.5;fill:#fff"/>
+<rect width="11.853" x=".847" y=".847" rx="0.5" height="11.853" style="fill:url(#linearGradient3031)"/>
 </g>
 <g transform="matrix(.59524 0 0 .60417 -5.29503 -168.43083)">
 <path style="fill:url(#linearGradient3944)" d="m 22.850502,286.91087 c -1.306316,0.0932 -3.602533,2.29059 -3.279655,2.27947 2.670664,-0.0921 4.338827,0.0599 6.422624,0.69984 0.308544,0.0948 -0.332951,-2.76483 -3.142969,-2.97931 z"/>
