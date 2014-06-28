@@ -49,8 +49,8 @@
   <linearGradient gradientTransform="matrix(.25 0 0 .25 299.99999 131.99999)" id="4" xlink:href="#0" y1="230" y2="90" x2="0" gradientUnits="userSpaceOnUse"/>
  </defs>
  <g fill-rule="evenodd">
-  <rect width="12.982" x="0.282" y="0.283" rx="6.491" height="12.982" opacity="0.5" fill="#fff"/>
-  <rect width="11.853" x="0.847" y="0.847" rx="5.926" height="11.853" fill="url(#1)"/>
+  <rect width="12.982" x="0.282" y="0.283" rx="0.5" height="12.982" opacity="0.5" fill="#fff"/>
+  <rect width="11.853" x="0.847" y="0.847" rx="0.5" height="11.853" fill="url(#1)"/>
  </g>
  <path d="m 6.7732889,3.9511113 0,5.643156 3.6688891,6.444e-4 0,-5.6435111 z" fill="#d60009"/>
  <rect width="1.976" x="4.798" y="3.951" rx="0" height="1.975" fill="#ffb425"/>
