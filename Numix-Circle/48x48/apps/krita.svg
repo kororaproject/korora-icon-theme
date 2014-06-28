@@ -6,8 +6,8 @@
   </linearGradient>
   <linearGradient xlink:href="#0" id="1" x1="6.773" y1="12.862" x2="6.612" y2="0.766" gradientUnits="userSpaceOnUse"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
  <g>
   <path d="M 6.7595469,9.6438846 5.9034574,8.9132081 C 5.4621248,8.7620035 5.1789337,9.2398855 5.3119006,9.5980626 c 0.238513,0.6420174 1.2549455,0.6762904 1.4476463,0.04582 z" fill="#39b54b"/>
   <path d="m 6.1914887,5.2603383 0.2925938,0 0.7314841,-0.4197567 C 7.1045275,3.4489207 5.8165301,4.032774 6.1914887,5.2603383 z" fill="#db1f27"/>
