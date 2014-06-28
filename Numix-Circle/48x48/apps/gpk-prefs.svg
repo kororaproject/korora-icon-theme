@@ -118,8 +118,8 @@
    <rect height="208.57" y="1580.93" x="-830" width="477.14" fill="#ff0"/>
   </clipPath>
  </defs>
- <rect height="12.982" rx="6.491" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
  <g transform="translate(-8.7488891,-1.4111112)">
   <g transform="translate(8.7488891,1.4111112)">
    <rect width="7.338" height="2.822" x="3.104" y="7.338" rx="1.5" ry="1.411" fill="#f9f9f9"/>
