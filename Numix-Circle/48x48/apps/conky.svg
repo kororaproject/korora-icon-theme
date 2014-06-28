@@ -165,8 +165,8 @@
   <linearGradient y2="268.33" x2="0" y1="279.1" gradientTransform="matrix(1.09524,0,0,1.09524,-133.00183,-293.02198)" gradientUnits="userSpaceOnUse" id="F" xlink:href="#E"/>
  </defs>
  <g transform="translate(2.2222392e-4,-5.5557249e-4)" fill-rule="evenodd">
-  <rect width="12.982" x="0.282" y="0.283" rx="6.491" height="12.982" opacity="0.5" fill="#ffffff"/>
-  <rect width="11.746" x="0.9" y="0.901" rx="5.873" height="11.746" fill="url(#F)"/>
+  <rect width="12.982" x="0.282" y="0.283" rx="0.5" height="12.982" opacity="0.5" fill="#ffffff"/>
+  <rect width="11.746" x="0.9" y="0.901" rx="0.5" height="11.746" fill="url(#F)"/>
  </g>
  <g transform="matrix(-1,0,0,-1,-0.884054,10.848998)">
   <path d="m -6.5198376,8.1521452 c -0.7236452,0.202516 -1.5053528,0.214185 -2.2663706,0.0026 l 0.3959079,-0.958789 c 0.4948536,0.116842 0.9980893,0.111027 1.4724181,-0.0019 l 0.3980446,0.958069 z" fill="#ff8700"/>
