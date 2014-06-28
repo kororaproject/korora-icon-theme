@@ -27,8 +27,8 @@
 </defs>
 <g style="fill-rule:evenodd">
 <g>
-<rect width="12.982" x=".282" y=".283" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
-<rect width="11.746" x=".9" y=".901" rx="5.873" height="11.746" style="fill:#4d4d4d"/>
+<rect width="12.982" x=".282" y=".283" rx="0.5" height="12.982" style="opacity:.5;fill:#fff"/>
+<rect width="11.746" x=".9" y=".901" rx="0.5" height="11.746" style="fill:#4d4d4d"/>
 <path style="fill:#2d2d2d" d="M 24 3.1875 C 16.517165 3.1875 9.9783876 7.103267 6.3125 13 L 41.65625 13 C 37.989752 7.1061758 31.48063 3.1875 24 3.1875 z " transform="scale(.28222)"/>
 </g>
 <g style="fill:#f9f9f9" transform="matrix(-.79632 0 0 .89329 12.15583 .16825)">
