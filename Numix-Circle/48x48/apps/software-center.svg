@@ -11,8 +11,8 @@
   <linearGradient xlink:href="#1" id="3" y1="34" x2="0" y2="50" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#2" id="4" y1="34" x2="0" y2="19" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.28222223,0,0,0.28222223,7.3333333e-7,0)"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="#eaebe1" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="#eaebe1" fill-rule="evenodd"/>
  <rect width="8.467" height="2.822" x="2.54" y="4.516" fill="#a17c5b"/>
  <path d="M 2.5400001,4.5155556 3.3866667,5.3622224 3.1985185,6.2088889 2.5400001,6.4911112 z" fill="#c49a6c"/>
  <path d="m 2.2577778,6.7733334 1.1288889,0 0,-0.2015872 c 0,-0.3359789 0,-1.8320938 0,-1.2095239 l -1.1288889,1.128889 z" fill="#d3b092"/>
