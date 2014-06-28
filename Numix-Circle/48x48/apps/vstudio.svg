@@ -186,8 +186,8 @@
   <radialGradient cx="328" cy="255.42" gradientTransform="matrix(1.22449 0 0 1.22449 49.7555 -179.34296)" xlink:href="#4" r="7" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#6" id="D" gradientUnits="userSpaceOnUse" gradientTransform="translate(-13.53783,-0.01017)" x1="0.838" x2="12.691"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" color="#bebebe" stroke-width="0.184"/>
- <rect transform="matrix(0,-1,1,0,0,0)" height="11.853" rx="5.926" y="0.847" x="-12.7" width="11.853" fill="url(#D)" color="#bebebe" stroke-width="0.184"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" color="#bebebe" stroke-width="0.184"/>
+ <rect transform="matrix(0,-1,1,0,0,0)" height="11.853" rx="0.5" y="0.847" x="-12.7" width="11.853" fill="url(#D)" color="#bebebe" stroke-width="0.184"/>
  <g transform="matrix(.05655 0 0 .05655 -.46567 10.16662)" fill="#dedede">
   <path d="m 128,-109.90253 c -27.56062,0 -49.902534,6.98168 -49.902534,15.594542 v 12.475633 c 0,8.61267 22.341324,15.594541 49.902534,15.594541 27.56043,0 49.90253,-6.981871 49.90253,-15.594541 v -12.475633 c 0,-8.612862 -22.3421,-15.594542 -49.90253,-15.594542 z"/>
   <path d="m 127.84269,-59.999997 c -22.34444,0 -41.179922,-4.589279 -47.538596,-10.916179 -1.484406,1.476998 -2.206628,3.048538 -2.206628,4.678362 v 12.475634 c 0,8.612865 22.341324,15.594541 49.902534,15.594541 27.56043,0 49.90253,-6.981676 49.90253,-15.594541 v -12.475634 c 0,-1.629824 -0.88031,-3.201364 -2.36472,-4.678362 -6.35847,6.3269 -25.35068,10.916179 -47.69512,10.916179 z"/>
