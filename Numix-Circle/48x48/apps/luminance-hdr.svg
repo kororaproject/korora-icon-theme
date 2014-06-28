@@ -101,8 +101,8 @@
   <linearGradient xlink:href="#1" id="8" x1="-8.184" x2="-5.362" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#0" id="9" y1="-4.219" x2="0" y2="12.607" gradientUnits="userSpaceOnUse"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" height="11.853" rx="5.926" y="-12.7" x="-12.7" width="11.853" fill="url(#7)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" height="11.853" rx="0.5" y="-12.7" x="-12.7" width="11.853" fill="url(#7)" fill-rule="evenodd"/>
  <rect width="8.467" x="-11.01" y="-11.01" rx="4.233" height="8.467" transform="matrix(0,-1,-1,0,0,0)" fill="#2a2a2a" fill-rule="evenodd"/>
  <rect transform="matrix(0,-1,-1,0,0,0)" height="7.338" rx="3.669" y="-10.442" x="-10.442" width="7.338" fill="#2f2f2f" fill-rule="evenodd"/>
  <rect width="6.209" x="-9.878" y="-9.878" rx="3.104" height="6.209" transform="matrix(0,-1,-1,0,0,0)" fill="#333333" fill-rule="evenodd"/>
