@@ -6,7 +6,7 @@
    <stop offset="1" stop-color="#3c4350"/>
   </linearGradient>
  </defs>
- <rect width="12.982" x="0.282" y="0.282" rx="6.491" height="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect width="12.982" x="0.282" y="0.282" rx="0.5" height="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
  <path d="m 12.69988,6.7733808 a 5.92662,5.92662 0 1 1 -2.3e-4,-0.052182" fill="url(#0)"/>
  <path d="m 3.1044445,7.0555557 0,-0.5644444 1.4111112,-0.8466667 0,0.2822222 -1.2700001,0.8466667 1.2700001,0.8466667 0,0.2822222 z" fill="#71c1ff"/>
  <path d="m 4.7977779,6.7736041 a 0.2822223,0.28222223 0 1 1 -1.05e-5,-0.00272" fill="#5dff49" fill-opacity="0.706"/>
