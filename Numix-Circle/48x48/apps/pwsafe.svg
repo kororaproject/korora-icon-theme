@@ -154,8 +154,8 @@
    <rect width="11.66" height="11.66" x="-0.185" y="0.379" fill="#2d2d2d" stroke="#2d2d2d" stroke-width="1.887"/>
   </clipPath>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" color="#bebebe" stroke-width="0.184"/>
- <rect transform="matrix(0,-1,1,0,0,0)" height="11.853" rx="5.926" y="0.847" x="-12.7" width="11.853" fill="url(#5)" color="#bebebe" stroke-width="0.184"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" color="#bebebe" stroke-width="0.184"/>
+ <rect transform="matrix(0,-1,1,0,0,0)" height="11.853" rx="0.5" y="0.847" x="-12.7" width="11.853" fill="url(#5)" color="#bebebe" stroke-width="0.184"/>
  <path d="m 3.668889,9.877778 0,-1.4111109 1.4111112,1.4111109 z" fill="#800000"/>
  <path d="m 3.668889,7.9022227 0,-1.9755556 1.9755556,1.9755556 z" fill="#800000"/>
  <path d="m 3.668889,3.1044448 0,2.2577778 2.2577778,0 z" fill="#800000"/>
