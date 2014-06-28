@@ -97,7 +97,7 @@
   </defs>
   <rect
      height="12.982"
-     rx="6.491"
+     rx="0.5"
      y="0.282"
      x="0.282"
      width="12.982"
@@ -110,7 +110,7 @@
      width="11.853"
      x="0.847"
      y="0.847"
-     rx="5.9260001"
+     rx="0.5"
      height="11.853"
      style="fill:#6391c5;fill-rule:evenodd;fill-opacity:1" />
   <path
@@ -120,7 +120,7 @@
      transform="scale(0.28222223,0.28222223)" />
   <rect
      height="11.853"
-     rx="5.926"
+     rx="0.5"
      y="0.847"
      x="0.847"
      width="11.853"
