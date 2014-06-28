@@ -67,8 +67,8 @@
    <rect width="13.829" height="12.982" x="-2.822" y="-1.411" rx="0" fill="#93c849"/>
   </clipPath>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#0)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#0)" fill-rule="evenodd"/>
  <path d="m 17,28 -6,-5 8,-2 -2,7" transform="scale(0.28222223,0.28222223)" fill="#eb835f"/>
  <path d="M 8.7488891,7.9022224 10.442223,6.4911113 8.1844446,5.9266668 8.7488891,7.9022224" fill="#eb835f"/>
  <path d="M 15,16 16.233494,23 22,20 15,16" transform="scale(0.28222223,0.28222223)" fill="#eb835f"/>
