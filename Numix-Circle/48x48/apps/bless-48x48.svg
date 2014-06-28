@@ -6,7 +6,7 @@
   </linearGradient>
   <linearGradient xlink:href="#0" id="1" x1="1.129" x2="12.418" gradientUnits="userSpaceOnUse" gradientTransform="translate(-13.544676,0.00232283)"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.287" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.287" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
  <rect height="11.289" rx="5.644" y="1.129" x="-12.416" width="11.289" transform="matrix(0,-1,1,0,0,0)" fill="url(#1)" fill-rule="evenodd"/>
  <rect width="6.773" height="5.644" x="3.387" y="3.951" rx="0.924" fill="#2d2d2d"/>
  <rect rx="0.456" y="4.516" x="3.951" height="4.516" width="5.644" fill="#868686"/>
