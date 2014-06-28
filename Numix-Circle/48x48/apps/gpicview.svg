@@ -106,8 +106,8 @@
   <linearGradient xlink:href="#2" id="A" gradientUnits="userSpaceOnUse" x1="13" y1="28" x2="15" y2="29"/>
   <linearGradient xlink:href="#0" id="B" x1="27" y1="35" x2="35" y2="24" gradientUnits="userSpaceOnUse"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.746" rx="5.873" y="0.9" x="0.9" width="11.746" fill="url(#8)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.746" rx="0.5" y="0.9" x="0.9" width="11.746" fill="url(#8)" fill-rule="evenodd"/>
  <path d="m 12.9,12.9 22.2,0 0,22.2 -22.2,0 z" transform="scale(0.28222223,0.28222223)" fill="#9cbef7"/>
  <path d="m -11,16.5 a 3,3.5 0 1 1 -6,0 3,3.5 0 1 1 6,0 z" transform="matrix(0.18814815,0,0,0.16126985,8.5607409,3.5479365)" fill="#f9f9f9"/>
  <path d="M 12.90625,24.281 12.9,35.1 28,35.1 z" transform="scale(0.28222223,0.28222223)" fill="url(#A)"/>
