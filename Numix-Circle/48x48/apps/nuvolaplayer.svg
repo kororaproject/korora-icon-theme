@@ -7,8 +7,8 @@
 <linearGradient gradientTransform="matrix(1.10525 0 0 1.10525 -134.22541 -295.81514)" xlink:href="#linearGradient4460" id="linearGradient3916" y1="279.096" y2="268.33" gradientUnits="userSpaceOnUse" x2="0"/>
 </defs>
 <g style="fill-rule:evenodd">
-<rect width="12.982" x=".282" y=".282" rx="6.491" height="12.982" style="opacity:.5;fill:#fff"/>
-<rect width="11.853" x=".9" y=".793" rx="5.926" height="11.853" style="fill:url(#linearGradient3916)"/>
+<rect width="12.982" x=".282" y=".282" rx="0.5" height="12.982" style="opacity:.5;fill:#fff"/>
+<rect width="11.853" x=".9" y=".793" rx="0.5" height="11.853" style="fill:url(#linearGradient3916)"/>
 </g>
 <path style="fill:#f9f9f9" d="m 4.1526986,9.0311113 5.2412702,0 c 1.0482532,-0.508 2.0965072,-3.556 -1.048254,-3.556 -0.5241276,-2.0320002 -2.6206353,-2.0320002 -3.1447623,0 -3.144762,0 -2.0965079,3.048 -1.0482539,3.556 z"/>
 <g style="line-height:normal;color:#000" transform="matrix(.72115 0 0 .8 1.96131 -225.33697)">
