@@ -62,8 +62,8 @@
   </clipPath>
   <linearGradient xlink:href="#0" id="5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.00003,0,0,1.00003,-13.54702,-13.54702)" x1="0.847" x2="12.7"/>
  </defs>
- <rect height="12.982" rx="6.491" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect transform="matrix(0,-1,-1,0,0,0)" height="11.853" rx="5.926" y="-12.7" x="-12.7" width="11.853" fill="url(#5)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.282" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" height="11.853" rx="0.5" y="-12.7" x="-12.7" width="11.853" fill="url(#5)" fill-rule="evenodd"/>
  <g transform="matrix(1,0,0,1.0000788,1.4107558,0.28171404)" fill="#e4cb32">
   <rect width="1.129" x="4.798" y="8.749" rx="0.006" height="0.564" ry="0.001"/>
   <rect width="1.129" x="4.798" y="7.898" rx="0.006" ry="0.001" height="0.564" opacity="0.9"/>
