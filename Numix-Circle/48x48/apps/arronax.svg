@@ -6,7 +6,7 @@
 <stop offset="1" style="stop-color:#005ec8"/>
 </linearGradient>
 </defs>
-<rect width="12.982" x=".282" y=".282" rx="6.491" height="12.982" style="opacity:.5;fill:#fff;fill-rule:evenodd"/>
+<rect width="12.982" x=".282" y=".282" rx="0.5" height="12.982" style="opacity:.5;fill:#fff;fill-rule:evenodd"/>
 <path style="fill:url(#linearGradient4092)" d="m 62,1020.3622 a 30,30 0 1 1 -0.0012,-0.2642" transform="matrix(.19756 0 0 .19756 .45156 -194.80489)"/>
 <g style="fill:#fff">
 <g transform="matrix(.23204 0 0 .23444 -.38981 -232.72523)">
