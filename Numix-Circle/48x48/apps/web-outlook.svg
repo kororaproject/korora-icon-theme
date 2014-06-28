@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13.546667 13.546667" width="48" height="48">
- <rect width="12.982" x="0.282" y="0.282" rx="6.491" height="12.982" opacity="0.5" fill="#fff" fill-rule="evenodd"/>
+ <rect width="12.982" x="0.282" y="0.282" rx="0.5" height="12.982" opacity="0.5" fill="#fff" fill-rule="evenodd"/>
  <path d="m -33.762712,19.220339 a 19.322035,20.033897 0 1 1 -38.64407,0 19.322035,20.033897 0 1 1 38.64407,0 z" transform="matrix(.30673 0 0 .29583 23.05607 1.08734)" fill="#0073c6"/>
  <g fill="#f9f9f9">
   <g transform="matrix(.06565 0 0 .06493 3.38667 3.38666)">
