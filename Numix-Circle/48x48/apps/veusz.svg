@@ -95,7 +95,7 @@
    <use transform="matrix(4.3233 0 0 4.3233 -2450.68 -2667.55)" xlink:href="#3"/>
   </clipPath>
  </defs>
- <rect height="12.982" rx="6.491" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
- <rect height="11.853" rx="5.927" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
+ <rect height="12.982" rx="0.5" y="0.283" x="0.282" width="12.982" opacity="0.5" fill="#ffffff" fill-rule="evenodd"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#1)" fill-rule="evenodd"/>
  <path d="m 3.9511112,3.3866667 0.8466667,0 0.8466667,5.6444446 3.1044445,-5.6444445 0.8466667,0 L 6.208889,10.16 l -1.4111111,0 z" fill="#003f5f"/>
 </svg>
