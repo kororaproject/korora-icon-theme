@@ -189,8 +189,8 @@
   <radialGradient cx="328" cy="255.42" gradientTransform="matrix(2.85714 0 0 2.85714 -609.14349 -473.66662)" r="7" xlink:href="#5" gradientUnits="userSpaceOnUse"/>
   <linearGradient xlink:href="#8" id="D" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.10525,0,0,1.10525,-134.26995,-295.77197)" y1="279.09" x2="0" y2="268.36"/>
  </defs>
- <rect width="12.982" x="0.282" y="0.282" rx="6.491" height="12.982" opacity="0.5" fill="#fff" color="#bebebe" stroke-width="0.184"/>
- <rect height="11.853" rx="5.926" y="0.847" x="0.847" width="11.853" fill="url(#D)" fill-rule="evenodd" color="#000000"/>
+ <rect width="12.982" x="0.282" y="0.282" rx="0.5" height="12.982" opacity="0.5" fill="#fff" color="#bebebe" stroke-width="0.184"/>
+ <rect height="11.853" rx="0.5" y="0.847" x="0.847" width="11.853" fill="url(#D)" fill-rule="evenodd" color="#000000"/>
  <g transform="matrix(0.03387,0,0,0.03381,2.4384,9.33685)" fill="#f9f9f9" fill-rule="evenodd">
   <path d="m 69.659814,15.999054 0,-133.556804 -41.662567,0 0,133.556804 z"/>
   <path d="m 136.31992,15.999054 0,-75.125704 c 0,-16.694601 8.33251,-25.041902 24.99754,-25.041902 16.66503,0 24.99754,8.347301 24.99754,25.041902 l 0,75.125704 41.66257,9.46e-4 0,-75.12665 c 0,-39.79157 -21.788,-58.4311 -49.99508,-58.4311 -18.02694,0.54391 -31.10506,12.72749 -41.66257,25.041898 l 0,-25.041898 -41.662566,0 c 0.5626,12.15597 0,133.556804 0,133.556804 z"/>
