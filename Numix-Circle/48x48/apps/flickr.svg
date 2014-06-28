@@ -15,8 +15,8 @@
   </linearGradient>
  </defs>
  <g fill-rule="evenodd">
-  <rect opacity="0.5" rx="6.491" height="12.982" width="12.982" y="0.283" x="0.282" fill="#fff"/>
-  <rect rx="5.926" height="11.853" width="11.853" y="0.847" x="0.847" fill="url(#linearGradient3002)"/>
+  <rect opacity="0.5" rx="0.5" height="12.982" width="12.982" y="0.283" x="0.282" fill="#fff"/>
+  <rect rx="0.5" height="11.853" width="11.853" y="0.847" x="0.847" fill="url(#linearGradient3002)"/>
  </g>
  <path d="m20,23a5,5,0,1,1,-10,0,5,5,0,1,1,10,0z" transform="matrix(0.33866667,0,0,0.33866667,-0.28222226,-1.0160001)" fill="#6592c3"/>
  <path d="m32,23a5,5,0,1,1,-10,0,5,5,0,1,1,10,0z" transform="matrix(0.33866668,0,0,0.33866668,-0.3951112,-1.0160001)" fill="#f142a7"/>
